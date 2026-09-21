@@ -1,0 +1,492 @@
+{
+ "id": "TRF2_G1_05154759620024025101",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "05154759620024025101",
+ "dataAjuizamento": "20020905000000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-06-13T14:00:23.964000Z",
+ "@timestamp": "2026-06-13T14:00:23.964000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2002-09-05T11:54:00.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2006-04-07T16:45:55.000Z",
+   "nome": "Mudança de Classe Processual",
+   "complementosTabelados": [
+    {
+     "codigo": 26,
+     "descricao": "classe_anterior",
+     "valor": 279,
+     "nome": "TJBA"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2006-04-07T16:45:55.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2007-07-03T18:27:00.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2015-06-01T12:22:00.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2015-07-29T13:54:00.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2019-06-13T00:00:00.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2019-07-24T15:18:00.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2020-05-22T14:51:00.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2020-05-29T17:58:00.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2020-06-01T12:16:47.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-06-03T14:27:12.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-06-09T16:28:04.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2020-06-09T16:29:33.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2021-06-10T06:15:52.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11383,
+   "dataHora": "2021-06-14T17:53:17.000Z",
+   "nome": "Ato ordinatório",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2021-07-09T14:33:21.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2021-07-09T14:35:46.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2021-09-23T14:27:57.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2021-09-25T11:26:21.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2021-10-27T13:30:48.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2021-10-27T13:31:39.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2022-05-17T17:54:52.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2022-05-18T19:39:41.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2022-10-19T11:57:22.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2022-10-20T17:54:05.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-04-25T15:51:09.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-04-26T18:21:07.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2023-04-26T18:23:18.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2023-05-15T13:52:05.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-05-15T17:43:48.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-07-07T12:37:16.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2023-07-07T12:38:01.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2024-01-04T06:15:03.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-01-11T18:23:33.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-01-29T16:37:44.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-04-12T10:59:58.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-04-26T18:12:21.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2024-04-26T18:13:45.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2024-07-26T06:15:09.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2024-07-26T10:38:59.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2025-05-20T06:15:08.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-05-20T17:31:20.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-05-23T16:32:31.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2025-05-23T16:32:42.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2026-05-18T16:13:51.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-05-19T15:01:29.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-05-22T14:10:07.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2026-05-22T14:15:47.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3539,
+   "nome": "Uso de documento falso "
+  }
+ ]
+}

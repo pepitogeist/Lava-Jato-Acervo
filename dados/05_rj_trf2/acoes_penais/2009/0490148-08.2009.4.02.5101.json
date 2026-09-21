@@ -1,0 +1,454 @@
+{
+ "id": "TRF2_G1_04901480820094025101",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "04901480820094025101",
+ "dataAjuizamento": "20090530134500",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-07-15T06:31:43.179000Z",
+ "@timestamp": "2026-07-15T06:31:43.179000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2009-05-30T13:42:00.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 85,
+     "nome": "sorteio manual"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2009-06-25T13:34:09.000Z",
+   "nome": "Mudança de Classe Processual",
+   "complementosTabelados": [
+    {
+     "codigo": 26,
+     "descricao": "classe_anterior",
+     "valor": 280,
+     "nome": "TJCE"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2009-06-25T13:34:09.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 219,
+   "dataHora": "2013-09-26T15:29:00.000Z",
+   "nome": "Procedência",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 200,
+   "dataHora": "2013-11-06T16:26:00.000Z",
+   "nome": "Não-Acolhimento de Embargos de Declaração",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2014-03-24T14:30:00.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2015-12-16T14:48:00.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2016-01-27T19:10:00.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2020-03-12T15:53:00.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11878,
+   "dataHora": "2022-02-11T13:42:11.000Z",
+   "nome": "Prescrição",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2022-03-07T19:11:00.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2023-03-08T06:15:06.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-06-26T18:20:34.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-08-04T13:02:58.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-08-14T18:49:38.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2023-09-22T15:50:09.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2023-09-25T15:23:23.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2023-10-17T17:48:01.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-11-08T14:20:56.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-11-13T17:15:55.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-11-23T17:14:57.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-11-27T18:57:59.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-02-05T16:41:21.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2024-02-07T16:01:08.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-04-08T16:51:21.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-05-21T16:14:54.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-06-20T17:01:33.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-07-02T16:23:27.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2024-07-05T17:24:14.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-07-24T13:02:02.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2024-07-29T13:26:57.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-12-04T17:14:07.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2025-02-05T16:22:32.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2025-03-12T15:42:50.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-08-18T13:13:07.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2025-08-22T14:10:01.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-12-11T18:30:25.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-01-27T11:40:35.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-02-02T17:25:41.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-02-23T13:10:43.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2026-03-12T13:24:09.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-05-06T14:54:01.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-06-23T11:40:54.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3607,
+   "nome": "Crimes de Tráfico Ilícito e Uso Indevido de Drogas"
+  }
+ ]
+}

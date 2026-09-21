@@ -1,0 +1,101 @@
+{
+ "id": "TRF4_283_G1_11891_50267940920194047000",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "50267940920194047000",
+ "dataAjuizamento": "19860724000000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2021-09-02T09:46:55.190000Z",
+ "@timestamp": "2021-09-02T09:46:55.190000Z",
+ "movimentos": [
+  {
+   "codigo": 981,
+   "dataHora": "2019-05-29T17:10:33.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2019-05-29T17:12:08.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2019-06-04T14:07:11.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12282,
+   "dataHora": "2019-06-04T14:50:47.000Z",
+   "nome": "Expedida/Certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12142,
+   "dataHora": "2019-06-04T14:56:46.000Z",
+   "nome": "Mudança de Parte",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2019-06-04T14:59:03.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3574,
+   "nome": "Contrabando ou descaminho "
+  }
+ ]
+}

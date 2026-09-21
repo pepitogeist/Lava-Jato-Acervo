@@ -1,0 +1,136 @@
+{
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "numeroProcesso": "50152663620234047000",
+ "sistema": {
+  "codigo": 4,
+  "nome": "EPROC"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "tribunal": "TRF4",
+ "dataHoraUltimaAtualizacao": "2025-06-14T23:40:37.093Z",
+ "grau": "G1",
+ "@timestamp": "2025-10-28T00:55:59.634124489Z",
+ "dataAjuizamento": "20230322164323",
+ "movimentos": [
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "valor": 4,
+     "nome": "dependência",
+     "descricao": "tipo_de_distribuicao_redistribuicao"
+    }
+   ],
+   "codigo": 26,
+   "nome": "Distribuição",
+   "dataHora": "2023-03-22T16:43:23.000Z"
+  },
+  {
+   "codigo": 12142,
+   "nome": "Mudança de Parte",
+   "dataHora": "2023-03-22T16:49:48.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2023-03-27T15:41:27.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2023-03-27T16:15:36.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2023-04-12T17:56:59.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2023-04-13T14:09:31.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2023-04-13T14:41:27.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2023-04-13T15:05:06.000Z"
+  },
+  {
+   "codigo": 22,
+   "nome": "Baixa Definitiva",
+   "dataHora": "2023-04-13T15:09:57.000Z"
+  }
+ ],
+ "id": "TRF4_G1_50152663620234047000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigoMunicipioIBGE": 4106902,
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba"
+ },
+ "assuntos": [
+  {
+   "codigo": 3539,
+   "nome": "Uso de documento falso "
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "id": "TRF2_G1_00003259120144025108",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "00003259120144025108",
+ "dataAjuizamento": "20140130155600",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-06-13T14:32:26.130000Z",
+ "@timestamp": "2026-06-13T14:32:26.130000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2015-04-17T14:58:00.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2015-11-06T16:06:00.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2016-06-17T18:11:00.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2016-07-04T13:06:06.000Z",
+   "nome": "Mudança de Classe Processual",
+   "complementosTabelados": [
+    {
+     "codigo": 26,
+     "descricao": "classe_anterior",
+     "valor": 279,
+     "nome": "TJBA"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2016-07-04T13:06:06.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 219,
+   "dataHora": "2017-11-13T15:18:00.000Z",
+   "nome": "Procedência",
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2018-03-09T13:57:00.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2019-10-16T16:21:00.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2019-10-23T14:43:00.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 849,
+   "dataHora": "2026-02-13T19:28:32.000Z",
+   "nome": "Reativação",
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-03-05T10:04:34.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2026-03-05T12:12:43.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 83,
+     "nome": "incompetência"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2026-03-05T12:12:43.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-03-26T18:32:04.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2026-04-17T19:56:59.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3431,
+   "nome": "Estelionato"
+  }
+ ]
+}

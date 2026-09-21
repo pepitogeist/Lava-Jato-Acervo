@@ -1,0 +1,1340 @@
+{
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "numeroProcesso": "50497545620194047000",
+ "sistema": {
+  "codigo": 4,
+  "nome": "EPROC"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "tribunal": "TRF4",
+ "dataHoraUltimaAtualizacao": "2025-06-17T19:30:15.056Z",
+ "grau": "G1",
+ "@timestamp": "2025-10-28T02:40:43.288668248Z",
+ "dataAjuizamento": "20190916171159",
+ "movimentos": [
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "valor": 2,
+     "nome": "sorteio",
+     "descricao": "tipo_de_distribuicao_redistribuicao"
+    }
+   ],
+   "codigo": 26,
+   "nome": "Distribuição",
+   "dataHora": "2019-09-16T17:11:59.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência",
+     "descricao": "motivo_da_redistribuicao"
+    },
+    {
+     "codigo": 2,
+     "valor": 2,
+     "nome": "sorteio",
+     "descricao": "tipo_de_distribuicao_redistribuicao"
+    }
+   ],
+   "codigo": 36,
+   "nome": "Redistribuição",
+   "dataHora": "2019-09-16T17:12:00.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 6,
+     "nome": "para decisão",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2019-09-16T17:48:51.000Z"
+  },
+  {
+   "codigo": 391,
+   "nome": "Denúncia",
+   "dataHora": "2019-09-20T15:05:32.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2019-09-20T15:05:32.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2019-09-20T16:03:24.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-20T16:03:24.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2019-09-23T16:11:57.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "valor": 9,
+     "nome": "designada",
+     "descricao": "situacao_da_audiencia"
+    },
+    {
+     "codigo": 16,
+     "valor": 17,
+     "nome": "conciliação",
+     "descricao": "tipo_de_audiencia"
+    },
+    {
+     "codigo": 36,
+     "valor": 188,
+     "nome": "Conciliador(a)",
+     "descricao": "dirigida_por"
+    }
+   ],
+   "codigo": 970,
+   "nome": "Audiência",
+   "dataHora": "2019-09-24T17:34:34.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2019-09-24T17:35:14.000Z"
+  },
+  {
+   "codigo": 11383,
+   "nome": "Ato ordinatório",
+   "dataHora": "2019-09-24T17:36:19.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2019-09-24T17:36:34.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2019-09-25T17:56:34.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-25T17:56:34.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-27T11:12:25.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2019-09-27T13:42:14.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2019-09-27T14:30:57.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2019-09-27T14:31:41.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 78,
+     "nome": "Mandado",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 60,
+   "nome": "Expedição de documento",
+   "dataHora": "2019-09-29T15:01:16.000Z"
+  },
+  {
+   "codigo": 985,
+   "nome": "Mandado",
+   "dataHora": "2019-09-30T18:30:26.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 78,
+     "nome": "Mandado",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2019-11-03T13:26:47.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 6,
+     "nome": "para decisão",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2020-02-03T18:45:34.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-02-03T19:15:18.000Z"
+  },
+  {
+   "codigo": 11010,
+   "nome": "Mero expediente",
+   "dataHora": "2020-02-03T19:15:18.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2020-02-04T14:01:18.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-02-04T17:47:51.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-02-04T17:47:51.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-02-06T13:49:26.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2020-02-06T16:20:48.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-02-07T15:05:08.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2020-02-07T18:47:47.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2020-02-07T18:48:09.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-02-18T18:19:49.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "valor": 13,
+     "nome": "realizada",
+     "descricao": "situacao_da_audiencia"
+    },
+    {
+     "codigo": 16,
+     "valor": 17,
+     "nome": "conciliação",
+     "descricao": "tipo_de_audiencia"
+    },
+    {
+     "codigo": 36,
+     "valor": 188,
+     "nome": "Conciliador(a)",
+     "descricao": "dirigida_por"
+    }
+   ],
+   "codigo": 970,
+   "nome": "Audiência",
+   "dataHora": "2020-02-19T18:53:16.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2020-02-19T18:53:37.000Z"
+  },
+  {
+   "codigo": 12142,
+   "nome": "Mudança de Parte",
+   "dataHora": "2020-02-19T18:54:31.000Z"
+  },
+  {
+   "codigo": 12065,
+   "nome": "Cumprimento de Suspensão ou Sobrestamento",
+   "dataHora": "2020-02-19T18:58:22.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-03-27T14:11:08.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-03-27T14:11:08.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-03-27T14:11:08.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-03-27T14:46:48.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-03-27T14:46:48.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-04-06T23:59:59.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-04-13T16:24:11.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-04-15T17:03:40.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-04-15T17:17:02.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-04-15T17:17:02.000Z"
+  },
+  {
+   "codigo": 12293,
+   "nome": "Ato cumprido pela parte ou interessado (sem atributo)",
+   "dataHora": "2020-04-22T15:51:26.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência",
+     "descricao": "motivo_da_redistribuicao"
+    },
+    {
+     "codigo": 2,
+     "valor": 2,
+     "nome": "sorteio",
+     "descricao": "tipo_de_distribuicao_redistribuicao"
+    }
+   ],
+   "codigo": 36,
+   "nome": "Redistribuição",
+   "dataHora": "2020-04-27T23:20:00.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2020-05-06T21:51:47.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-05-11T12:27:31.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-06-02T14:56:18.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-06-02T14:57:23.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-06-08T11:46:26.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-06-08T11:46:27.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2020-09-24T18:32:26.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-09-25T12:50:13.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-09-28T15:52:58.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-09-28T15:52:58.000Z"
+  },
+  {
+   "codigo": 12067,
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "dataHora": "2020-09-28T18:00:03.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 5,
+     "nome": "para despacho",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2020-09-28T18:00:35.000Z"
+  },
+  {
+   "codigo": 11010,
+   "nome": "Mero expediente",
+   "dataHora": "2020-09-29T17:55:16.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-09-29T20:04:44.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2020-09-29T20:51:06.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-09-30T15:19:09.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-10-09T23:59:59.000Z"
+  },
+  {
+   "codigo": 1051,
+   "nome": "Decurso de Prazo",
+   "dataHora": "2020-10-20T01:02:15.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-10-20T15:25:16.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-10-20T16:19:28.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-10-20T16:19:28.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2020-11-23T15:52:11.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2020-11-27T11:40:04.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2020-11-27T11:40:10.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 5,
+     "nome": "para despacho",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2020-11-27T13:08:26.000Z"
+  },
+  {
+   "codigo": 11010,
+   "nome": "Mero expediente",
+   "dataHora": "2020-11-27T19:52:02.000Z"
+  },
+  {
+   "codigo": 898,
+   "nome": "Por decisão judicial",
+   "dataHora": "2020-11-27T21:03:17.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2021-02-19T14:25:04.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2021-02-19T15:23:01.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2021-02-23T13:12:02.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2021-02-23T13:12:02.000Z"
+  },
+  {
+   "codigo": 12291,
+   "nome": "Movimentação processual",
+   "dataHora": "2021-02-23T15:21:15.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2021-02-23T15:25:16.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2021-03-05T23:59:59.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2021-03-10T15:01:01.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2021-03-11T15:27:54.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2021-03-12T07:42:52.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2021-03-12T07:42:58.000Z"
+  },
+  {
+   "codigo": 12067,
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "dataHora": "2021-03-12T12:43:48.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 5,
+     "nome": "para despacho",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2021-03-12T12:44:08.000Z"
+  },
+  {
+   "codigo": 11010,
+   "nome": "Mero expediente",
+   "dataHora": "2021-03-15T11:18:43.000Z"
+  },
+  {
+   "codigo": 898,
+   "nome": "Por decisão judicial",
+   "dataHora": "2021-03-15T12:09:56.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2021-04-09T09:42:07.000Z"
+  },
+  {
+   "codigo": 12067,
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "dataHora": "2021-06-14T03:00:16.000Z"
+  },
+  {
+   "codigo": 898,
+   "nome": "Por decisão judicial",
+   "dataHora": "2021-06-15T15:39:07.000Z"
+  },
+  {
+   "codigo": 12067,
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "dataHora": "2021-11-28T03:00:14.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2022-01-20T13:41:52.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2022-01-30T23:59:59.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-02-03T14:10:34.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2022-02-03T14:45:43.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-02-03T16:21:05.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2022-02-03T16:21:05.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-02-04T12:54:21.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 5,
+     "nome": "para despacho",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2022-02-04T12:57:31.000Z"
+  },
+  {
+   "codigo": 11010,
+   "nome": "Mero expediente",
+   "dataHora": "2022-02-04T14:02:20.000Z"
+  },
+  {
+   "codigo": 12268,
+   "nome": "Em Secretaria",
+   "dataHora": "2022-02-04T16:16:13.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-02-07T16:58:47.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-02-07T16:58:47.000Z"
+  },
+  {
+   "codigo": 12294,
+   "nome": "Comparecimento do Réu/Apenado",
+   "dataHora": "2022-02-08T13:53:06.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2022-02-09T14:25:29.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-02-09T14:40:34.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2022-02-09T14:40:34.000Z"
+  },
+  {
+   "codigo": 12291,
+   "nome": "Movimentação processual",
+   "dataHora": "2022-02-09T16:20:48.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 36,
+     "nome": "para julgamento",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2022-02-09T16:24:12.000Z"
+  },
+  {
+   "codigo": 12294,
+   "nome": "Comparecimento do Réu/Apenado",
+   "dataHora": "2022-03-10T15:46:29.000Z"
+  },
+  {
+   "codigo": 11411,
+   "nome": "Cumprimento da suspensão condicional do processo",
+   "dataHora": "2022-03-22T16:52:00.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2022-03-22T17:48:23.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2022-03-22T17:48:23.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-03-22T18:04:46.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2022-03-22T18:04:46.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2022-04-01T23:59:59.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-04-06T16:21:36.000Z"
+  },
+  {
+   "codigo": 848,
+   "nome": "Trânsito em julgado",
+   "dataHora": "2022-07-11T17:30:25.000Z"
+  },
+  {
+   "codigo": 848,
+   "nome": "Trânsito em julgado",
+   "dataHora": "2022-07-11T17:31:05.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 79,
+     "nome": "Ofício",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 60,
+   "nome": "Expedição de documento",
+   "dataHora": "2022-07-12T11:31:55.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 79,
+     "nome": "Ofício",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 60,
+   "nome": "Expedição de documento",
+   "dataHora": "2022-07-12T11:31:55.000Z"
+  },
+  {
+   "codigo": 12282,
+   "nome": "Expedida/Certificada",
+   "dataHora": "2022-07-12T14:32:24.000Z"
+  },
+  {
+   "codigo": 12282,
+   "nome": "Expedida/Certificada",
+   "dataHora": "2022-07-12T14:36:23.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-07-12T18:34:55.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-07-28T17:53:54.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-08-12T11:17:51.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2022-08-12T13:41:16.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2022-08-15T11:20:03.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-08-15T11:20:09.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 5,
+     "nome": "para despacho",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2022-08-15T14:09:58.000Z"
+  },
+  {
+   "codigo": 11010,
+   "nome": "Mero expediente",
+   "dataHora": "2022-08-17T17:08:50.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 79,
+     "nome": "Ofício",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 60,
+   "nome": "Expedição de documento",
+   "dataHora": "2022-08-17T19:12:15.000Z"
+  },
+  {
+   "codigo": 12282,
+   "nome": "Expedida/Certificada",
+   "dataHora": "2022-08-18T12:52:41.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-08-18T14:33:42.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2022-08-18T19:58:53.000Z"
+  },
+  {
+   "codigo": 12282,
+   "nome": "Expedida/Certificada",
+   "dataHora": "2022-08-18T20:05:11.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2022-08-19T15:08:32.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2022-08-19T15:08:50.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-08-19T15:42:18.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-08-26T14:02:43.000Z"
+  },
+  {
+   "codigo": 22,
+   "nome": "Baixa Definitiva",
+   "dataHora": "2022-08-26T15:21:27.000Z"
+  }
+ ],
+ "id": "TRF4_G1_50497545620194047000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigoMunicipioIBGE": 4106902,
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba"
+ },
+ "assuntos": [
+  {
+   "codigo": 3614,
+   "nome": "Crimes contra a Ordem Tributária"
+  }
+ ]
+}

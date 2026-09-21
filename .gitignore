@@ -1,0 +1,12 @@
+# Dados brutos intermediários (o conteúdo já está nas pastas finais:
+# acoes_penais/ em JSON individual e outras_classes/ em .jsonl.gz)
+dados/01_curitiba_13vara/raw/
+dados/05_rj_trf2/raw/
+dados/02_trf4_2inst/raw_g2_acoes_penais.jsonl
+
+# Logs de execução
+scripts/*.log
+
+# Credenciais (nunca commitar)
+*.token
+.github_token

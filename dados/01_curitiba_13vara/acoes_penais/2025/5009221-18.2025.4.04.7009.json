@@ -1,0 +1,666 @@
+{
+ "id": "TRF4_G1_50092211820254047009",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "50092211820254047009",
+ "dataAjuizamento": "20250804115338",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13a Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-14T16:45:23.538000Z",
+ "@timestamp": "2026-09-14T16:45:23.538000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2025-08-04T11:53:38.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11925",
+    "nome": "1ª Vara Federal de Ponta Grossa"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2025-08-04T11:53:45.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11925",
+    "nome": "1ª Vara Federal de Ponta Grossa"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2025-08-14T09:17:05.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11925",
+    "nome": "1ª Vara Federal de Ponta Grossa"
+   }
+  },
+  {
+   "codigo": 941,
+   "dataHora": "2025-08-14T09:17:05.000Z",
+   "nome": "Incompetência",
+   "orgaoJulgador": {
+    "codigo": "11925",
+    "nome": "1ª Vara Federal de Ponta Grossa"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2025-08-14T13:48:09.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11925",
+    "nome": "1ª Vara Federal de Ponta Grossa"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2025-08-14T13:49:00.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11925",
+    "nome": "1ª Vara Federal de Ponta Grossa"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2025-08-18T19:48:25.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 83,
+     "nome": "incompetência"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2025-08-21T17:03:21.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2025-08-22T19:27:17.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2025-08-22T19:27:17.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2025-08-25T15:26:34.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2025-08-25T15:26:41.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12142,
+   "dataHora": "2025-08-27T13:31:52.000Z",
+   "nome": "Mudança de Parte",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2025-08-27T18:58:13.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2025-08-27T18:58:16.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12282,
+   "dataHora": "2025-08-28T13:18:14.000Z",
+   "nome": "Expedida/Certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 985,
+   "dataHora": "2025-09-08T13:30:17.000Z",
+   "nome": "Mandado",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2025-09-22T15:59:08.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2025-11-05T18:16:05.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2025-11-15T21:35:22.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2025-12-02T17:27:44.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2025-12-04T15:46:46.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-12-11T22:31:16.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12749,
+   "dataHora": "2026-03-03T18:55:14.000Z",
+   "nome": "de Instrução",
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "descricao": "situacao_da_audiencia",
+     "valor": 9,
+     "nome": "designada"
+    },
+    {
+     "codigo": 36,
+     "descricao": "dirigida_por",
+     "valor": 185,
+     "nome": "Juiz(a)"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-03-03T18:55:14.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-03-03T18:55:14.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-03-04T15:21:20.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-03-04T15:21:35.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-03-13T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2026-03-17T18:11:05.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-03-20T11:32:50.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 985,
+   "dataHora": "2026-03-23T14:41:04.000Z",
+   "nome": "Mandado",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-03-27T17:03:49.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-04-07T14:40:46.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12749,
+   "dataHora": "2026-04-10T15:39:12.000Z",
+   "nome": "de Instrução",
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "descricao": "situacao_da_audiencia",
+     "valor": 13,
+     "nome": "realizada"
+    },
+    {
+     "codigo": 36,
+     "descricao": "dirigida_por",
+     "valor": 185,
+     "nome": "Juiz(a)"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-04-10T15:40:13.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-04-21T00:18:13.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-04-27T15:00:37.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-04-27T15:25:25.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-05-07T23:58:43.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-05-25T16:59:13.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-05-28T16:52:17.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-19T10:12:35.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-19T10:12:35.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 219,
+   "dataHora": "2026-08-19T10:12:35.000Z",
+   "nome": "Procedência",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-19T15:30:10.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-08-19T15:30:45.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2026-08-21T14:16:18.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-29T23:58:30.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 985,
+   "dataHora": "2026-08-31T09:17:14.000Z",
+   "nome": "Mandado",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-09-04T10:56:12.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-09-09T15:25:23.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-09-10T18:35:28.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3574,
+   "nome": "Contrabando ou descaminho "
+  }
+ ]
+}

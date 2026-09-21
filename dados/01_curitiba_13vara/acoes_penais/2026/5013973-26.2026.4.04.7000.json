@@ -1,0 +1,350 @@
+{
+ "id": "TRF4_G1_50139732620264047000",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "50139732620264047000",
+ "dataAjuizamento": "20260319135344",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13a Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-14T11:47:50.278000Z",
+ "@timestamp": "2026-09-14T11:47:50.278000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-03-19T13:53:44.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 4,
+     "nome": "dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "18362",
+    "nome": "23ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12291,
+   "dataHora": "2026-03-20T13:24:01.000Z",
+   "nome": "Movimentação processual",
+   "orgaoJulgador": {
+    "codigo": "18362",
+    "nome": "23ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2026-03-20T13:24:14.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-04-09T17:16:02.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-06-11T09:04:40.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 941,
+   "dataHora": "2026-06-11T09:04:40.000Z",
+   "nome": "Incompetência",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2026-06-11T18:00:42.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 83,
+     "nome": "incompetência"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "13866",
+    "nome": "5ª Vara Federal de Foz do Iguaçu"
+   }
+  },
+  {
+   "codigo": 12143,
+   "dataHora": "2026-06-11T18:00:42.000Z",
+   "nome": "Mudança de Assunto Processual",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-06-12T14:56:12.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "13866",
+    "nome": "5ª Vara Federal de Foz do Iguaçu"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-06-12T14:56:28.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "13866",
+    "nome": "5ª Vara Federal de Foz do Iguaçu"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-06-12T16:51:45.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "13866",
+    "nome": "5ª Vara Federal de Foz do Iguaçu"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-06-12T16:51:50.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "13866",
+    "nome": "5ª Vara Federal de Foz do Iguaçu"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-06-26T10:54:41.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "13866",
+    "nome": "5ª Vara Federal de Foz do Iguaçu"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-06-26T10:54:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "13866",
+    "nome": "5ª Vara Federal de Foz do Iguaçu"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2026-06-26T18:22:00.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 3,
+     "nome": "prevenção"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12143,
+   "dataHora": "2026-06-26T18:22:00.000Z",
+   "nome": "Mudança de Assunto Processual",
+   "orgaoJulgador": {
+    "codigo": "13866",
+    "nome": "5ª Vara Federal de Foz do Iguaçu"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-06-29T09:09:25.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-06-30T18:11:09.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-06-30T18:12:31.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-08-17T16:49:04.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-17T16:49:05.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-08-18T15:26:49.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-19T12:36:38.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-08-19T12:36:42.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12281,
+   "dataHora": "2026-08-20T14:20:51.000Z",
+   "nome": "Comunicação eletrônica",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 10983,
+   "nome": "\"Lavagem\" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção"
+  }
+ ]
+}

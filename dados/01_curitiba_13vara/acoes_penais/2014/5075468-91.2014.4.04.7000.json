@@ -1,0 +1,220 @@
+{
+ "id": "TRF4_283_G1_11891_50754689120144047000",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "50754689120144047000",
+ "dataAjuizamento": "20141117173323",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2021-07-23T04:08:45.726000Z",
+ "@timestamp": "2021-07-23T04:08:45.726000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2014-11-17T17:33:23.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 4,
+     "nome": "dependência"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2014-11-17T17:52:38.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2014-12-02T17:27:12.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2014-12-02T18:20:26.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2014-12-12T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2014-12-26T22:34:25.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2015-01-23T13:49:02.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2015-01-23T14:06:47.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 1063,
+   "dataHora": "2015-03-09T16:24:11.000Z",
+   "nome": "Determinação de arquivamento de procedimentos investigatórios",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2015-03-09T16:36:19.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2015-03-17T14:45:50.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2015-03-17T14:45:52.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2015-03-18T18:05:23.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12142,
+   "dataHora": "2015-03-18T18:10:13.000Z",
+   "nome": "Mudança de Parte",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12142,
+   "dataHora": "2015-03-18T18:10:13.000Z",
+   "nome": "Mudança de Parte",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12142,
+   "dataHora": "2015-03-18T18:10:13.000Z",
+   "nome": "Mudança de Parte",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2015-03-18T18:11:40.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3612,
+   "nome": "Crimes contra o Sistema Financeiro Nacional"
+  }
+ ]
+}

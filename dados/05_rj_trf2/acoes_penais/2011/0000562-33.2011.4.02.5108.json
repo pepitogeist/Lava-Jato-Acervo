@@ -1,0 +1,144 @@
+{
+ "id": "TRF2_G1_00005623320114025108",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "00005623320114025108",
+ "dataAjuizamento": "20110502153700",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2024-11-13T21:27:19.305000Z",
+ "@timestamp": "2024-11-13T21:27:19.305000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2011-05-02T15:38:00.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2017-03-27T17:19:10.000Z",
+   "nome": "Mudança de Classe Processual",
+   "complementosTabelados": [
+    {
+     "codigo": 26,
+     "descricao": "classe_anterior",
+     "valor": 279,
+     "nome": "TJBA"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2017-03-27T17:19:10.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 219,
+   "dataHora": "2019-02-25T15:00:00.000Z",
+   "nome": "Procedência",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2019-07-02T14:37:00.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2024-08-07T14:30:42.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-08-27T16:24:29.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-09-17T18:50:06.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2024-10-10T17:18:01.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3432,
+   "nome": "Estelionato Majorado "
+  },
+  {
+   "codigo": 3596,
+   "nome": "Inserção de dados falsos em sistema de informações "
+  }
+ ]
+}

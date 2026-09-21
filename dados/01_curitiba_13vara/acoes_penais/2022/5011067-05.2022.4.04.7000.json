@@ -1,0 +1,94 @@
+{
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "numeroProcesso": "50110670520224047000",
+ "sistema": {
+  "codigo": 4,
+  "nome": "EPROC"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "tribunal": "TRF4",
+ "dataHoraUltimaAtualizacao": "2025-06-14T20:41:47.373Z",
+ "grau": "G1",
+ "@timestamp": "2025-10-28T00:46:58.836207127Z",
+ "dataAjuizamento": "20030526000000",
+ "movimentos": [
+  {
+   "codigo": 981,
+   "nome": "Recebimento",
+   "dataHora": "2022-03-03T18:24:40.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-03-03T18:26:25.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-03-03T18:28:20.000Z"
+  },
+  {
+   "codigo": 22,
+   "nome": "Baixa Definitiva",
+   "dataHora": "2022-03-07T16:18:24.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2022-03-07T17:16:40.000Z"
+  },
+  {
+   "codigo": 12291,
+   "nome": "Movimentação processual",
+   "dataHora": "2022-03-07T17:17:01.000Z"
+  },
+  {
+   "codigo": 12291,
+   "nome": "Movimentação processual",
+   "dataHora": "2022-03-07T17:17:05.000Z"
+  }
+ ],
+ "id": "TRF4_G1_50110670520224047000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigoMunicipioIBGE": 4106902,
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba"
+ },
+ "assuntos": [
+  {
+   "codigo": 3612,
+   "nome": "Crimes contra o Sistema Financeiro Nacional"
+  }
+ ]
+}

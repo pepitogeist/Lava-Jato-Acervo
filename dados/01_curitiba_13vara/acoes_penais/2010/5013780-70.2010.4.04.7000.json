@@ -1,0 +1,132 @@
+{
+ "id": "TRF4_283_G1_11891_50137807020104047000",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "50137807020104047000",
+ "dataAjuizamento": "20070928000000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2021-09-01T20:47:53.883000Z",
+ "@timestamp": "2021-09-01T20:47:53.883000Z",
+ "movimentos": [
+  {
+   "codigo": 981,
+   "dataHora": "2010-09-15T15:28:00.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2011-04-12T13:50:21.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2011-04-13T17:14:49.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 12283,
+   "dataHora": "2013-05-10T12:36:49.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 977,
+   "dataHora": "2018-05-25T23:07:00.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-05-28T11:54:44.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 1063,
+   "dataHora": "2018-05-29T10:55:15.000Z",
+   "nome": "Determinação de arquivamento de procedimentos investigatórios",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 12142,
+   "dataHora": "2018-05-29T11:23:40.000Z",
+   "nome": "Mudança de Parte",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2018-05-29T11:24:41.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3612,
+   "nome": "Crimes contra o Sistema Financeiro Nacional"
+  },
+  {
+   "codigo": 3555,
+   "nome": "Corrupção passiva "
+  },
+  {
+   "codigo": 3432,
+   "nome": "Estelionato Majorado "
+  },
+  {
+   "codigo": 3521,
+   "nome": "Quadrilha ou Bando"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "TRF4_G2_50605876020244047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50605876020244047000",
+ "dataAjuizamento": "20260721150420",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44528,
+  "nome": "GAB 71 Des Federal ANGELO ROBERTO ILHA DA SILVA",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-08-03T07:57:57.233000Z",
+ "@timestamp": "2026-08-03T07:57:57.233000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-07-21T15:04:20.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-07-22T15:11:11.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-07-23T22:33:25.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-07-23T22:33:30.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3432,
+   "nome": "Estelionato Majorado "
+  },
+  {
+   "codigo": 3539,
+   "nome": "Uso de documento falso "
+  }
+ ]
+}

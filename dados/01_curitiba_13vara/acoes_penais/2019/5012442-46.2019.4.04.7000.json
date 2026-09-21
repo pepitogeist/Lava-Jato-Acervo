@@ -1,0 +1,269 @@
+{
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "numeroProcesso": "50124424620194047000",
+ "sistema": {
+  "codigo": 4,
+  "nome": "EPROC"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "tribunal": "TRF4",
+ "dataHoraUltimaAtualizacao": "2025-06-16T01:12:29.106Z",
+ "grau": "G1",
+ "@timestamp": "2025-10-28T01:39:25.047371187Z",
+ "dataAjuizamento": "20090624000000",
+ "movimentos": [
+  {
+   "codigo": 981,
+   "nome": "Recebimento",
+   "dataHora": "2019-03-21T18:13:44.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "valor": 38,
+     "nome": "em grau de recurso",
+     "descricao": "motivo_da_remessa"
+    }
+   ],
+   "codigo": 123,
+   "nome": "Remessa",
+   "dataHora": "2019-03-21T18:15:07.000Z"
+  },
+  {
+   "codigo": 12283,
+   "nome": "Confirmada",
+   "dataHora": "2019-08-14T20:35:31.000Z"
+  },
+  {
+   "codigo": 12283,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-11T13:49:38.000Z"
+  },
+  {
+   "codigo": 12283,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-11T13:50:27.000Z"
+  },
+  {
+   "codigo": 12283,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-11T13:50:54.000Z"
+  },
+  {
+   "codigo": 977,
+   "nome": "Recebimento",
+   "dataHora": "2019-09-11T13:51:27.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 6,
+     "nome": "para decisão",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2019-09-13T15:03:47.000Z"
+  },
+  {
+   "codigo": 1063,
+   "nome": "Determinação de arquivamento de procedimentos investigatórios",
+   "dataHora": "2019-09-13T15:52:30.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2019-09-13T17:02:17.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2019-09-13T17:02:18.000Z"
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2019-09-13T17:02:18.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2019-09-13T17:30:17.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-13T17:30:17.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "valor": 57,
+     "nome": "Petição (outras)",
+     "descricao": "tipo_de_peticao"
+    }
+   ],
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2019-09-23T11:08:49.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-23T11:08:49.000Z"
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2019-09-23T23:59:59.000Z"
+  },
+  {
+   "codigo": 1051,
+   "nome": "Decurso de Prazo",
+   "dataHora": "2019-10-01T01:05:34.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 79,
+     "nome": "Ofício",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 60,
+   "nome": "Expedição de documento",
+   "dataHora": "2019-10-01T15:13:36.000Z"
+  },
+  {
+   "codigo": 12142,
+   "nome": "Mudança de Parte",
+   "dataHora": "2019-10-07T16:51:35.000Z"
+  },
+  {
+   "codigo": 12142,
+   "nome": "Mudança de Parte",
+   "dataHora": "2019-10-07T16:51:36.000Z"
+  },
+  {
+   "codigo": 22,
+   "nome": "Baixa Definitiva",
+   "dataHora": "2019-10-07T16:51:51.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2021-04-13T17:45:06.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 107,
+     "nome": "Certidão",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2021-06-04T16:42:00.000Z"
+  },
+  {
+   "codigo": 849,
+   "nome": "Reativação",
+   "dataHora": "2021-06-04T16:42:51.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 5,
+     "nome": "para despacho",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2021-06-04T16:43:17.000Z"
+  },
+  {
+   "codigo": 11010,
+   "nome": "Mero expediente",
+   "dataHora": "2021-07-07T13:56:48.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 79,
+     "nome": "Ofício",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 60,
+   "nome": "Expedição de documento",
+   "dataHora": "2021-07-12T19:02:02.000Z"
+  },
+  {
+   "codigo": 22,
+   "nome": "Baixa Definitiva",
+   "dataHora": "2021-07-13T15:24:38.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "valor": 80,
+     "nome": "Outros documentos",
+     "descricao": "tipo_de_documento"
+    }
+   ],
+   "codigo": 581,
+   "nome": "Documento",
+   "dataHora": "2021-07-23T14:20:56.000Z"
+  }
+ ],
+ "id": "TRF4_G1_50124424620194047000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigoMunicipioIBGE": 4106902,
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba"
+ },
+ "assuntos": [
+  {
+   "codigo": 3612,
+   "nome": "Crimes contra o Sistema Financeiro Nacional"
+  },
+  {
+   "codigo": 10623,
+   "nome": "Prescrição"
+  }
+ ]
+}

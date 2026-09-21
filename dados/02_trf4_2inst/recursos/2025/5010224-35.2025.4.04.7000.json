@@ -1,0 +1,70 @@
+{
+ "id": "TRF4_G2_50102243520254047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50102243520254047000",
+ "dataAjuizamento": "20260826175046",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44538,
+  "nome": "GAB 73 Des Federal LUIZ CARLOS CANALLI",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-13T10:25:09.123000Z",
+ "@timestamp": "2026-09-13T10:25:09.123000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-08-26T17:50:46.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-26T18:09:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-09-05T23:56:22.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3612,
+   "nome": "Crimes contra o Sistema Financeiro Nacional"
+  }
+ ]
+}

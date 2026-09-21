@@ -1,0 +1,674 @@
+{
+ "id": "TRF4_283_G1_11891_00202453520004047000",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "00202453520004047000",
+ "dataAjuizamento": "20000825000000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 2,
+  "nome": "Físico"
+ },
+ "dataHoraUltimaAtualizacao": "2024-04-01T04:23:41.117000Z",
+ "@timestamp": "2024-04-01T04:23:41.117000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2000-08-28T13:32:30.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2000-08-29T13:22:51.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2000-09-21T17:40:56.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2000-09-22T12:10:39.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2000-10-09T19:11:49.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2000-10-11T15:34:56.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2000-10-13T14:46:51.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2000-10-13T18:12:02.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2000-10-16T17:10:53.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2000-11-10T10:31:17.000Z",
+   "nome": "Denúncia"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2000-12-06T11:45:41.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2000-12-12T19:57:31.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2001-06-13T14:24:38.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2001-07-12T13:13:04.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2001-07-18T18:02:31.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2001-07-18T20:39:48.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2002-01-24T20:44:53.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2002-01-25T14:53:23.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2002-01-29T19:48:07.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2002-02-13T21:10:35.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2002-02-22T13:09:49.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2002-03-04T19:33:27.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2002-03-06T16:52:02.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2002-06-18T21:20:51.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2002-06-19T14:02:04.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2002-06-20T12:03:59.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2002-06-20T16:57:54.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2002-06-24T14:10:04.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2002-06-27T14:05:00.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2002-07-12T11:40:25.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2002-07-23T19:38:57.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2002-07-29T12:36:03.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2002-08-08T11:32:09.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2002-10-15T16:24:29.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2002-10-31T14:24:50.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2002-12-16T15:51:56.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2003-03-05T15:07:09.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2003-03-10T16:49:04.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2003-03-25T16:22:09.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2003-03-27T14:09:25.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2003-03-27T14:12:16.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2003-04-02T15:50:06.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2003-04-04T13:52:14.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2003-04-04T13:52:20.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2003-04-14T16:16:52.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2003-04-15T11:34:57.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2003-04-23T18:48:06.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2003-04-28T13:41:40.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2003-05-09T13:54:11.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2004-06-11T14:02:10.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2004-06-11T14:02:22.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 220,
+   "dataHora": "2004-09-24T17:49:48.000Z",
+   "nome": "Improcedência"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2004-09-30T20:45:26.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2004-10-04T19:41:02.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2004-10-13T16:59:14.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2004-10-19T14:40:53.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2004-12-01T17:28:41.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2005-06-22T13:38:16.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2005-06-22T19:04:05.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2005-06-24T19:50:15.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2005-07-01T17:50:58.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2005-07-01T17:51:04.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 11878,
+   "dataHora": "2005-07-01T17:51:07.000Z",
+   "nome": "Prescrição"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2005-07-04T20:10:56.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2005-07-06T18:37:36.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2005-07-12T16:26:13.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2005-07-25T15:19:47.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2005-08-15T14:58:18.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2005-08-30T14:18:22.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2005-08-31T16:56:25.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2005-08-31T16:57:06.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2006-06-28T12:53:33.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2006-06-29T18:10:55.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2006-07-03T18:48:59.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2006-07-03T18:49:22.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2006-07-05T14:32:59.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2006-07-10T19:15:15.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2008-07-08T19:28:59.000Z",
+   "nome": "Mudança de Classe Processual"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2020-02-14T16:31:32.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2022-02-23T11:47:26.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2022-02-23T11:55:39.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-02-27T13:27:27.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2024-03-08T16:50:45.000Z",
+   "nome": "Recebimento"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3612,
+   "nome": "Crimes contra o Sistema Financeiro Nacional"
+  }
+ ]
+}

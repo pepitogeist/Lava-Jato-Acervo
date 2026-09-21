@@ -1,0 +1,106 @@
+{
+ "id": "TRF2_G1_50388068320194025101",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "50388068320194025101",
+ "dataAjuizamento": "20190614152620",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2024-07-05T22:18:34.976000Z",
+ "@timestamp": "2024-07-05T22:18:34.976000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2019-06-14T15:26:20.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 4,
+     "nome": "dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2019-07-05T16:05:49.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2019-09-06T15:28:22.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2019-09-10T14:26:00.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2019-10-11T14:59:03.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 220,
+   "dataHora": "2020-01-09T12:24:37.000Z",
+   "nome": "Improcedência",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2020-04-21T22:17:44.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3596,
+   "nome": "Inserção de dados falsos em sistema de informações "
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "TRF2_G1_50012114820184025113",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "50012114820184025113",
+ "dataAjuizamento": "20181218103532",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2024-07-05T23:23:37.891000Z",
+ "@timestamp": "2024-07-05T23:23:37.891000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2018-12-18T10:35:32.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 4,
+     "nome": "dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12291",
+    "nome": "Vara Federal de Três Rios"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2019-02-08T11:51:50.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12291",
+    "nome": "Vara Federal de Três Rios"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2019-03-21T15:29:14.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "12291",
+    "nome": "Vara Federal de Três Rios"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3432,
+   "nome": "Estelionato Majorado "
+  }
+ ]
+}

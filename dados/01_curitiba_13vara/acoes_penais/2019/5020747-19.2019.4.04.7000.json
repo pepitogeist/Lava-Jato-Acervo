@@ -1,0 +1,533 @@
+{
+ "id": "TRF4_283_G1_11891_50207471920194047000",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "50207471920194047000",
+ "dataAjuizamento": "20190502144028",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2022-06-08T08:57:12.934000Z",
+ "@timestamp": "2022-06-08T08:57:12.934000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2019-05-02T14:40:28.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2019-05-02T18:31:59.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2019-05-27T15:11:51.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2019-06-06T16:03:37.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-06-06T16:03:37.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-06-07T13:47:31.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-06-07T13:47:31.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2019-06-12T15:13:33.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-06-12T15:33:12.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2019-06-12T21:24:28.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-06-13T10:00:29.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 985,
+   "dataHora": "2019-06-17T18:11:03.000Z",
+   "nome": "Mandado"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2019-06-24T15:27:09.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11927",
+    "nome": "1ª Vara Federal de Toledo"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2019-06-26T18:01:07.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-06-26T18:01:32.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-07-06T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-07-29T20:04:02.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-07-29T23:56:11.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2019-07-30T06:25:14.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-08-13T17:10:41.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-08-13T17:10:41.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 12185,
+   "dataHora": "2019-08-13T17:10:41.000Z",
+   "nome": "Decisão Interlocutória de Mérito",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-08-14T14:42:49.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-08-14T14:42:49.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2019-08-15T19:13:24.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 170,
+     "nome": "Carta"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-08-23T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-09-04T09:33:15.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-09-23T18:58:42.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-09-23T18:59:26.000Z",
+   "nome": "Trânsito em julgado",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2019-10-02T21:00:27.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 170,
+     "nome": "Carta"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2019-10-03T21:09:56.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 170,
+     "nome": "Carta"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2019-10-07T09:52:49.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2019-10-07T09:52:57.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-10-07T15:20:58.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 12142,
+   "dataHora": "2019-10-10T17:47:33.000Z",
+   "nome": "Mudança de Parte",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-10-10T17:48:04.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2019-10-21T16:34:36.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "12625",
+    "nome": "1ª Unidade de Apoio de Curitiba"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2020-04-27T17:23:21.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "11891",
+    "nome": "13ª Vara Federal de Curitiba"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3533,
+   "nome": "Falsidade ideológica "
+  },
+  {
+   "codigo": 3574,
+   "nome": "Contrabando ou descaminho "
+  }
+ ]
+}

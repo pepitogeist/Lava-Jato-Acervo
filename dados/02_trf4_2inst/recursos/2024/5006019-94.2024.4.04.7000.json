@@ -1,0 +1,403 @@
+{
+ "id": "TRF4_G2_50060199420244047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50060199420244047000",
+ "dataAjuizamento": "20260127165351",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44546,
+  "nome": "GAB 72 Des Federal ALEXANDRE GONCALVES LIPPEL",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 426,
+  "nome": "Recurso em Sentido Estrito"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-08-02T02:07:58.674000Z",
+ "@timestamp": "2026-08-02T02:07:58.674000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-01-27T16:53:51.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-01-30T14:29:00.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-01-30T14:29:01.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2026-01-30T14:41:33.000Z",
+   "nome": "Mudança de Classe Processual",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-01-30T14:41:44.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-02-06T18:47:34.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-02-06T18:47:42.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-02-06T18:50:14.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-06-10T16:03:41.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12282,
+   "dataHora": "2026-06-11T12:26:39.000Z",
+   "nome": "Expedida/Certificada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12115,
+   "dataHora": "2026-06-11T12:26:39.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2026-06-12T02:02:07.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-06-15T12:35:00.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12309,
+   "dataHora": "2026-06-17T11:38:29.000Z",
+   "nome": "Retirada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12116,
+   "dataHora": "2026-06-24T16:18:33.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-06-25T11:04:43.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-06-26T18:44:11.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12309,
+   "dataHora": "2026-06-30T17:14:18.000Z",
+   "nome": "Retirada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-06-30T17:16:07.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-06-30T17:16:20.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-06-30T17:16:20.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 11383,
+   "dataHora": "2026-06-30T17:45:04.000Z",
+   "nome": "Ato ordinatório",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2026-07-01T02:01:54.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2026-07-02T02:33:24.000Z",
+   "nome": "Publicação",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-07-03T15:30:11.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12282,
+   "dataHora": "2026-07-16T14:49:25.000Z",
+   "nome": "Expedida/Certificada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12115,
+   "dataHora": "2026-07-16T14:49:25.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2026-07-17T02:02:21.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-07-17T13:56:43.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12204,
+   "dataHora": "2026-07-28T17:09:04.000Z",
+   "nome": "Pedido de Vista",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-07-28T19:54:09.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-07-29T22:41:33.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 10984,
+   "nome": "\"Lavagem\" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção"
+  }
+ ]
+}

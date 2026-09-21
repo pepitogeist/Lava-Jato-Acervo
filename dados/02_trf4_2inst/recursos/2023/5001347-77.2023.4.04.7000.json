@@ -1,0 +1,96 @@
+{
+ "id": "TRF4_G2_50013477720234047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50013477720234047000",
+ "dataAjuizamento": "20260721135905",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44538,
+  "nome": "GAB 73 Des Federal LUIZ CARLOS CANALLI",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-11T06:31:24.539000Z",
+ "@timestamp": "2026-09-11T06:31:24.539000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-07-21T13:59:05.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-07-21T14:58:40.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-07-28T15:42:43.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-07-28T15:42:49.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-08-06T18:47:42.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3524,
+   "nome": "Moeda Falsa / Assimilados"
+  }
+ ]
+}

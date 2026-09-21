@@ -1,0 +1,79 @@
+{
+ "numeroProcesso": "50206925820254047000",
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "tribunal": "TRF4",
+ "dataHoraUltimaAtualizacao": "2026-05-07T23:26:28.161000Z",
+ "grau": "G2",
+ "@timestamp": "2026-05-07T23:26:28.161000Z",
+ "dataAjuizamento": "20260429151803",
+ "movimentos": [
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "valor": 3,
+     "nome": "prevenção",
+     "descricao": "tipo_de_distribuicao_redistribuicao"
+    }
+   ],
+   "codigo": 26,
+   "nome": "Distribuição",
+   "dataHora": "2026-04-29T15:18:03.000Z",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2026-04-29T16:41:05.000Z",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2026-04-30T16:51:49.000Z",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2026-04-30T16:52:44.000Z",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  }
+ ],
+ "id": "TRF4_G2_50206925820254047000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigoMunicipioIBGE": 4314902,
+  "codigo": 44549,
+  "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+ },
+ "assuntos": [
+  {
+   "codigo": 5566,
+   "nome": "Roubo Majorado"
+  }
+ ]
+}

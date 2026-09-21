@@ -1,0 +1,695 @@
+{
+ "id": "TRF4_G2_50189259220194047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50189259220194047000",
+ "dataAjuizamento": "20240404150614",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44518,
+  "nome": "VicePresidencia",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-11T13:57:23.255000Z",
+ "@timestamp": "2026-09-11T13:57:23.255000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2024-04-04T15:06:14.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-04-04T15:44:11.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-04-14T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2024-04-26T01:02:35.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-05-21T14:29:25.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2025-10-01T12:28:24.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2025-10-01T19:03:58.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2025-10-03T21:28:39.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2025-10-06T12:17:28.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2025-10-10T11:13:57.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12282,
+   "dataHora": "2025-10-10T15:28:12.000Z",
+   "nome": "Expedida/Certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12104,
+   "dataHora": "2025-10-10T15:28:12.000Z",
+   "nome": "Inclusão em pauta",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2025-10-13T02:03:09.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12252,
+   "dataHora": "2025-10-29T16:02:18.000Z",
+   "nome": "Sentença confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2025-10-29T18:39:52.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2025-10-29T19:14:18.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2025-10-29T19:14:19.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2025-11-03T19:15:33.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2025-11-03T19:15:50.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2025-11-08T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2025-11-12T23:57:50.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2025-11-13T17:39:28.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2025-11-13T19:16:17.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 11383,
+   "dataHora": "2025-11-13T19:16:17.000Z",
+   "nome": "Ato ordinatório",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2025-11-14T13:13:14.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2025-11-24T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2025-11-27T01:02:47.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2025-11-27T15:02:29.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2025-11-28T15:27:40.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12116,
+   "dataHora": "2025-12-04T15:59:23.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12309,
+   "dataHora": "2025-12-15T19:48:37.000Z",
+   "nome": "Retirada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12116,
+   "dataHora": "2025-12-17T15:49:35.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 200,
+   "dataHora": "2026-01-28T13:32:49.000Z",
+   "nome": "Não-Acolhimento de Embargos de Declaração",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-01-28T16:34:04.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-01-28T17:48:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-01-28T17:48:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-01-28T18:41:31.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-01-28T18:41:31.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-01-29T13:26:43.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-01-29T13:26:43.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2026-01-29T13:35:00.000Z",
+   "nome": "Trânsito em julgado",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-01-29T13:35:42.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-01-29T14:01:54.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-01-29T17:55:08.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-01-29T17:57:12.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-01-29T17:57:12.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-01-29T20:05:47.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 433,
+   "dataHora": "2026-08-10T14:53:45.000Z",
+   "nome": "Recurso Especial",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-08-10T19:59:20.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-12T07:10:41.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-12T07:10:41.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-12T16:05:21.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-08-12T16:05:59.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-22T23:55:04.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-08-25T16:08:09.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-25T16:21:14.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-26T17:31:06.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-08-26T17:31:25.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2026-08-27T17:13:37.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-08-27T17:57:36.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44518",
+    "nome": "Vice-Presidência"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3539,
+   "nome": "Uso de documento falso "
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "id": "TRF4_G2_50576869520194047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50576869520194047000",
+ "dataAjuizamento": "20260807150925",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44549,
+  "nome": "GAB 83 Des Federal ANA PAULA DE BORTOLI",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 426,
+  "nome": "Recurso em Sentido Estrito"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-11T07:44:53.363000Z",
+ "@timestamp": "2026-09-11T07:44:53.363000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-08-07T15:09:25.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 3,
+     "nome": "prevenção"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-08-07T19:42:15.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2026-08-10T13:37:10.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2026-08-10T14:22:21.000Z",
+   "nome": "Mudança de Classe Processual",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-10T15:58:40.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-20T23:56:10.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2026-08-26T01:02:15.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-08-26T13:53:13.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-08-26T17:16:53.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-08-26T17:50:31.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-26T17:50:39.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-09-05T23:56:53.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3568,
+   "nome": "Corrupção ativa "
+  },
+  {
+   "codigo": 3555,
+   "nome": "Corrupção passiva "
+  },
+  {
+   "codigo": 10982,
+   "nome": "\"Lavagem\" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção"
+  }
+ ]
+}

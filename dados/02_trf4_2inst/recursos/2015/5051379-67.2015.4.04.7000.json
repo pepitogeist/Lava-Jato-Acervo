@@ -1,0 +1,946 @@
+{
+ "id": "TRF4_G2_50513796720154047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50513796720154047000",
+ "dataAjuizamento": "20240216145613",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44549,
+  "nome": "GAB 83 Des Federal ANA PAULA DE BORTOLI",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-11T03:50:50.310000Z",
+ "@timestamp": "2026-09-11T03:50:50.310000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2024-02-16T14:56:13.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 3,
+     "nome": "prevenção"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-02-20T13:30:49.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-02-20T14:08:08.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-02-20T14:08:32.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-03-01T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-03-11T19:30:13.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-03-12T12:05:30.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-03-22T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2024-04-04T01:01:44.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-04-09T11:29:50.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2024-04-09T13:19:08.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-07-16T10:57:51.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-07-16T12:46:06.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-07-16T13:09:58.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-07-16T13:09:58.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-07-25T09:53:17.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2024-07-25T11:33:02.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-07-25T15:47:16.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12455,
+   "dataHora": "2024-07-25T15:55:08.000Z",
+   "nome": "Indeferimento",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-07-25T15:55:08.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-07-26T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-07-31T17:16:49.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2024-07-31T17:23:19.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-08-04T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2024-08-08T01:01:07.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-08-15T11:26:37.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12282,
+   "dataHora": "2024-08-23T18:30:42.000Z",
+   "nome": "Expedida/Certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12104,
+   "dataHora": "2024-08-23T18:30:42.000Z",
+   "nome": "Inclusão em pauta",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2024-08-26T02:00:09.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2024-08-26T15:59:28.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 219,
+   "dataHora": "2024-09-04T18:17:35.000Z",
+   "nome": "Procedência",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-09-05T14:21:31.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-09-05T15:34:26.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-09-05T15:34:26.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-09-05T15:34:26.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-09-05T15:34:26.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2024-09-05T15:55:03.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2024-09-06T15:09:05.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2024-09-06T15:31:46.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2024-09-06T16:55:32.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-09-09T15:38:07.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-09-09T15:38:07.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-09-10T04:47:13.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-09-10T10:09:10.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-09-10T10:09:10.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12066,
+   "dataHora": "2024-09-11T03:00:03.000Z",
+   "nome": "Cumprimento de Levantamento da Suspensão ",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2024-09-11T15:06:37.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-09-15T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2024-09-26T01:01:12.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2024-10-02T01:03:56.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2024-10-03T15:14:32.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2024-10-03T15:15:43.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12066,
+   "dataHora": "2024-10-03T15:21:00.000Z",
+   "nome": "Cumprimento de Levantamento da Suspensão ",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2024-10-03T15:21:18.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 5,
+     "nome": "para despacho"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-10-11T13:55:46.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-10-11T14:12:30.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-10-11T14:12:30.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-10-21T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-10-23T13:48:20.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-10-23T13:52:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2024-11-01T01:01:09.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-11-02T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-11-07T14:37:05.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2024-11-15T01:01:07.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2024-11-18T13:50:27.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-11-29T14:15:19.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-11-29T14:42:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-11-29T14:42:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-11-29T14:42:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2024-11-29T14:42:42.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-11-29T14:42:42.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-11-29T14:42:59.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-12-02T17:24:46.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-12-02T17:24:46.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2024-12-09T23:59:59.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-12-10T17:01:50.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2024-12-16T15:09:25.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2024-12-17T01:02:59.000Z",
+   "nome": "Decurso de Prazo",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-08-05T15:30:35.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12151,
+   "dataHora": "2026-08-05T15:30:35.000Z",
+   "nome": "Suspeição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2026-08-06T16:40:11.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 31,
+     "nome": "suspeição"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal ANA PAULA DE BORTOLI)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 10983,
+   "nome": "\"Lavagem\" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção"
+  }
+ ]
+}

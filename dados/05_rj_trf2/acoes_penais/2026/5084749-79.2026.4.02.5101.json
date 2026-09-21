@@ -1,0 +1,70 @@
+{
+ "id": "TRF2_G1_50847497920264025101",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "50847497920264025101",
+ "dataAjuizamento": "20260801132954",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-15T22:55:05.563000Z",
+ "@timestamp": "2026-09-15T22:55:05.563000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-08-01T13:29:54.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 461,
+   "dataHora": "2026-08-03T09:48:11.000Z",
+   "nome": "Ausência das condições da ação",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2026-08-17T14:15:02.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 12334,
+   "nome": "Promoção, constituição, financiamento ou integração de Organização Criminosa"
+  }
+ ]
+}

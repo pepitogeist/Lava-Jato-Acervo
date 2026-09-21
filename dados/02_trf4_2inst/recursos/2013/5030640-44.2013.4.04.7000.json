@@ -1,0 +1,351 @@
+{
+ "id": "TRF4_417_G2_44549_50306404420134047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50306404420134047000",
+ "dataAjuizamento": "20160412124650",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44549,
+  "nome": "GAB. 83 (Des. Federal CARLOS EDUARDO THOMPSON FLORES LENZ)",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2021-07-08T20:58:50.640000Z",
+ "@timestamp": "2021-07-08T20:58:50.640000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2016-04-12T12:46:50.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2016-04-12T16:26:52.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal CARLOS EDUARDO THOMPSON FLORES LENZ)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2016-04-12T16:28:59.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2016-04-22T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2016-05-04T16:23:01.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2016-05-04T16:30:11.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-08-22T08:58:04.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2019-07-02T14:13:45.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal CARLOS EDUARDO THOMPSON FLORES LENZ)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2019-07-08T19:14:51.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-07-25T16:01:44.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12105,
+   "dataHora": "2019-07-25T16:01:44.000Z",
+   "nome": "Inclusão do processo para julgamento eletrônico"
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2019-07-29T00:30:17.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2019-07-29T11:21:14.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 12204,
+   "dataHora": "2019-08-15T15:01:43.000Z",
+   "nome": "Pedido de Vista"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2019-08-16T14:58:53.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal CARLOS EDUARDO THOMPSON FLORES LENZ)"
+   }
+  },
+  {
+   "codigo": 12116,
+   "dataHora": "2019-08-20T15:43:00.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Juiz Federal NIVALDO BRUNONI)"
+   }
+  },
+  {
+   "codigo": 12254,
+   "dataHora": "2019-08-21T17:39:38.000Z",
+   "nome": "Sentença desconstituída"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2019-08-22T13:36:33.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2019-08-23T17:04:34.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Juiz Federal NIVALDO BRUNONI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2019-08-23T17:38:29.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2019-09-02T11:22:31.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44549",
+    "nome": "GAB. 83 (Des. Federal CARLOS EDUARDO THOMPSON FLORES LENZ)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-09-02T11:42:01.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-09-02T11:42:01.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-09-02T11:42:01.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-09-02T11:42:01.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-09-02T11:42:01.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-09-02T11:42:02.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-09-02T13:17:01.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-09-02T13:17:01.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-09-03T11:02:15.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-09-03T11:02:15.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-09-09T11:24:39.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-09-09T11:40:41.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-09-12T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2019-09-28T01:02:21.000Z",
+   "nome": "Decurso de Prazo"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-09-30T14:39:25.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-09-30T14:40:04.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-09-30T14:41:54.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-09-30T14:42:29.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2019-09-30T14:43:28.000Z",
+   "nome": "Baixa Definitiva"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3548,
+   "nome": "Peculato"
+  }
+ ]
+}

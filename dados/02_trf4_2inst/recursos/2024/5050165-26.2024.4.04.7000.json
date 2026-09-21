@@ -1,0 +1,140 @@
+{
+ "id": "TRF4_G2_50501652620244047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50501652620244047000",
+ "dataAjuizamento": "20260817163255",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44531,
+  "nome": "GAB 82 Des Federal MARCELO MALUCELLI",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-12T12:21:28.167000Z",
+ "@timestamp": "2026-09-12T12:21:28.167000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-08-17T16:32:55.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-08-17T16:51:00.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-08-17T16:53:00.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-17T16:53:41.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-27T23:55:48.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-09-04T18:37:34.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-09-04T18:41:15.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-09-11T19:55:44.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-09-11T19:55:49.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3598,
+   "nome": "Sonegação de contribuição previdenciária "
+  }
+ ]
+}

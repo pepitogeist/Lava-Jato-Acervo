@@ -1,0 +1,96 @@
+{
+ "id": "TRF4_G2_50191503920244047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50191503920244047000",
+ "dataAjuizamento": "20260717162318",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44534,
+  "nome": "GAB 81 Des Federal LORACI FLORES DE LIMA",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-11T04:28:43.066000Z",
+ "@timestamp": "2026-09-11T04:28:43.066000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-07-17T16:23:18.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-07-21T14:06:37.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2026-07-21T14:06:55.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-07-31T23:55:23.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-08-05T18:49:31.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3539,
+   "nome": "Uso de documento falso "
+  }
+ ]
+}

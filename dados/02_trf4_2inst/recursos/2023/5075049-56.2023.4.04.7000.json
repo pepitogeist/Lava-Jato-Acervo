@@ -1,0 +1,83 @@
+{
+ "numeroProcesso": "50750495620234047000",
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "tribunal": "TRF4",
+ "dataHoraUltimaAtualizacao": "2026-05-07T23:31:54.699000Z",
+ "grau": "G2",
+ "@timestamp": "2026-05-07T23:31:54.699000Z",
+ "dataAjuizamento": "20260206140316",
+ "movimentos": [
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "valor": 2,
+     "nome": "sorteio",
+     "descricao": "tipo_de_distribuicao_redistribuicao"
+    }
+   ],
+   "codigo": 26,
+   "nome": "Distribuição",
+   "dataHora": "2026-02-06T14:03:16.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2026-02-06T14:19:57.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2026-02-09T14:52:30.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2026-02-09T14:52:37.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  }
+ ],
+ "id": "TRF4_G2_50750495620234047000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigoMunicipioIBGE": 4314902,
+  "codigo": 44528,
+  "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+ },
+ "assuntos": [
+  {
+   "codigo": 15128,
+   "nome": "Intolerância Racial, de Cor e/ou Etnia"
+  },
+  {
+   "codigo": 15129,
+   "nome": "Intolerância Religiosa"
+  }
+ ]
+}

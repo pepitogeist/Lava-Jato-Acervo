@@ -1,0 +1,3448 @@
+{
+ "id": "TRF4_283_G1_11891_00025052020074047000",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "00025052020074047000",
+ "dataAjuizamento": "20070125000000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 2,
+  "nome": "Físico"
+ },
+ "dataHoraUltimaAtualizacao": "2024-04-01T05:41:19.354000Z",
+ "@timestamp": "2024-04-01T05:41:19.354000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2007-01-25T17:56:16.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 4,
+     "nome": "dependência"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-01-25T18:02:15.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-01-25T18:16:25.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-01-26T15:19:39.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-01-26T16:14:17.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-01-29T15:14:19.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-01-29T16:52:10.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-01-29T17:08:29.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-01-29T17:08:45.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-01-30T18:57:26.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-01-30T18:57:26.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-01-30T20:06:26.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-02-01T03:03:00.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-02-02T16:31:06.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-02-02T16:35:01.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 970,
+   "dataHora": "2007-02-02T16:38:43.000Z",
+   "nome": "Audiência",
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "descricao": "situacao_da_audiencia",
+     "valor": 9,
+     "nome": "designada"
+    },
+    {
+     "codigo": 16,
+     "descricao": "tipo_de_audiencia",
+     "valor": 22,
+     "nome": "instrução"
+    },
+    {
+     "codigo": 36,
+     "descricao": "dirigida_por",
+     "valor": 185,
+     "nome": "Juiz(a)"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-05T14:43:02.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-05T15:01:40.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-05T16:02:20.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-02-05T16:02:55.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-02-05T16:03:09.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-02-05T16:47:32.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-02-05T16:47:32.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-02-05T16:47:32.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-05T17:05:59.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-02-05T17:16:16.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-05T18:11:35.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-05T18:12:24.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-05T18:13:21.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-05T18:13:52.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-02-05T19:11:08.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-02-05T19:11:08.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-02-05T19:12:13.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-02-05T19:14:26.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-02-06T19:09:38.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 8,
+     "nome": "não entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-07T15:01:09.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-07T15:01:27.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-07T17:39:58.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-07T17:40:54.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-07T17:44:13.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-07T17:44:19.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-13T12:24:08.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-13T13:08:56.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-13T13:43:34.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-02-13T13:43:45.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-02-13T13:43:45.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-13T14:16:56.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-13T15:36:46.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-13T16:23:08.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-02-13T16:24:16.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-02-13T17:40:54.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-13T17:59:34.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-02-13T18:48:28.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-02-13T18:48:28.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-14T11:12:28.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-14T11:56:41.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-14T15:24:09.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-02-14T19:39:07.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-02-14T19:39:58.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-15T16:05:43.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-15T16:05:49.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2007-02-16T17:13:09.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12291,
+   "dataHora": "2007-02-21T15:02:14.000Z",
+   "nome": "Movimentação processual"
+  },
+  {
+   "codigo": 970,
+   "dataHora": "2007-02-22T16:24:29.000Z",
+   "nome": "Audiência",
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "descricao": "situacao_da_audiencia",
+     "valor": 13,
+     "nome": "realizada"
+    },
+    {
+     "codigo": 16,
+     "descricao": "tipo_de_audiencia",
+     "valor": 22,
+     "nome": "instrução"
+    },
+    {
+     "codigo": 36,
+     "descricao": "dirigida_por",
+     "valor": 185,
+     "nome": "Juiz(a)"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-22T18:00:59.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-02-22T19:08:34.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-23T14:12:05.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-02-23T19:03:34.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-26T10:12:35.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 970,
+   "dataHora": "2007-02-26T12:15:03.000Z",
+   "nome": "Audiência",
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "descricao": "situacao_da_audiencia",
+     "valor": 9,
+     "nome": "designada"
+    },
+    {
+     "codigo": 16,
+     "descricao": "tipo_de_audiencia",
+     "valor": 22,
+     "nome": "instrução"
+    },
+    {
+     "codigo": 36,
+     "descricao": "dirigida_por",
+     "valor": 185,
+     "nome": "Juiz(a)"
+    }
+   ]
+  },
+  {
+   "codigo": 12291,
+   "dataHora": "2007-02-26T15:28:47.000Z",
+   "nome": "Movimentação processual"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-02-26T15:44:03.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-02-26T15:44:53.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-02-26T17:00:48.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 170,
+     "nome": "Carta"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-02-28T16:26:51.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-02-28T16:26:59.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-02-28T16:32:22.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-02-28T16:41:42.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-01T16:59:59.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-03-02T02:02:34.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2007-03-02T17:38:21.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-03-05T10:00:16.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-03-05T10:00:41.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-05T10:07:22.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-05T10:47:47.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-05T12:35:04.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-05T12:36:30.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-03-09T13:06:10.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-09T15:51:36.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-12T16:28:35.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-12T16:41:03.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-12T16:41:19.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-03-15T13:28:05.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-03-29T16:58:16.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-03-30T13:44:07.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-03-30T13:45:19.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-03-30T13:48:37.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-10T15:52:15.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-04-10T16:36:02.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-04-10T16:36:13.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-04-11T09:41:07.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-04-13T15:06:16.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-04-13T15:07:50.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-04-13T15:53:45.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-04-13T15:54:21.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-04-13T18:06:03.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-04-17T13:49:29.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-17T13:49:49.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-17T14:49:23.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-04-17T14:54:21.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-04-17T17:48:08.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-04-17T17:51:06.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-04-17T18:55:14.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-04-17T18:55:32.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-18T11:25:50.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-04-18T12:24:25.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-18T16:26:03.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-20T14:20:33.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-20T16:21:10.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2007-04-20T16:22:53.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-04-20T16:37:24.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-23T13:30:03.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-04-26T09:45:56.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-27T14:01:57.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-30T14:42:39.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-04-30T14:43:04.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-04-30T15:35:32.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-05-03T13:47:04.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-03T13:50:49.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-05-03T14:18:14.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 11383,
+   "dataHora": "2007-05-04T02:02:46.000Z",
+   "nome": "Ato ordinatório"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-08T17:02:44.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-09T16:04:35.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-09T16:04:57.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-09T16:06:42.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-09T16:08:18.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-09T16:56:58.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 170,
+     "nome": "Carta"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-05-14T17:17:51.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-05-16T17:23:55.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2007-05-17T10:24:06.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-17T18:34:12.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-17T18:35:08.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-17T18:35:51.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-05-17T18:36:57.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-05-18T14:33:22.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 970,
+   "dataHora": "2007-05-18T14:34:06.000Z",
+   "nome": "Audiência",
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "descricao": "situacao_da_audiencia",
+     "valor": 9,
+     "nome": "designada"
+    },
+    {
+     "codigo": 16,
+     "descricao": "tipo_de_audiencia",
+     "valor": 22,
+     "nome": "instrução"
+    },
+    {
+     "codigo": 36,
+     "descricao": "dirigida_por",
+     "valor": 185,
+     "nome": "Juiz(a)"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-18T14:45:58.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-18T16:33:00.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-21T12:31:12.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-21T12:33:46.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-21T12:47:08.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-21T12:58:38.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-21T13:00:48.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-05-21T14:04:23.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-05-21T14:04:23.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-05-21T14:04:23.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-05-21T14:04:23.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-05-21T14:04:23.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-21T14:12:18.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-21T14:13:13.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-05-21T14:14:06.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-21T14:48:58.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-21T14:49:15.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2007-05-21T15:03:59.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-05-21T17:46:03.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-05-21T17:46:46.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-05-21T17:58:05.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-05-21T17:58:05.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-05-21T18:00:22.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-05-22T02:00:23.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-05-22T18:34:18.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-05-22T18:34:29.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-05-23T19:43:39.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-05-25T12:41:56.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-05-25T15:10:33.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-25T17:08:30.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-25T17:08:31.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-25T17:09:01.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-28T15:23:19.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-05-28T16:14:07.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 970,
+   "dataHora": "2007-05-29T10:45:25.000Z",
+   "nome": "Audiência",
+   "complementosTabelados": [
+    {
+     "codigo": 15,
+     "descricao": "situacao_da_audiencia",
+     "valor": 13,
+     "nome": "realizada"
+    },
+    {
+     "codigo": 16,
+     "descricao": "tipo_de_audiencia",
+     "valor": 22,
+     "nome": "instrução"
+    },
+    {
+     "codigo": 36,
+     "descricao": "dirigida_por",
+     "valor": 185,
+     "nome": "Juiz(a)"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-06-04T11:52:55.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-06-06T12:49:55.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-06-06T13:10:17.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-06-11T18:46:58.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-06-11T18:47:15.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-06-12T09:51:50.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-06-12T10:06:39.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2007-06-12T15:23:31.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico"
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-06-13T02:09:59.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-06-14T14:33:40.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-06-18T18:27:50.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2007-06-18T18:29:05.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-06-18T18:51:02.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-06-22T11:35:08.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-06-22T11:35:36.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2007-06-22T13:35:46.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-06-26T14:13:28.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-06-26T15:42:09.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-06-27T16:17:13.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2007-06-27T16:17:14.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-06-27T16:38:48.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-06-27T16:41:31.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-06-27T18:19:12.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-06-27T18:19:22.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 220,
+   "dataHora": "2007-06-27T18:22:22.000Z",
+   "nome": "Improcedência"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-06-27T18:22:34.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 220,
+   "dataHora": "2007-06-27T18:23:04.000Z",
+   "nome": "Improcedência"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-06-27T18:23:16.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 219,
+   "dataHora": "2007-06-27T18:24:40.000Z",
+   "nome": "Procedência"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-06-27T18:35:43.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-06-28T12:10:11.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-06-28T12:10:39.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-06-28T13:39:13.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-06-28T16:14:58.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-07-04T18:24:11.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 987,
+   "dataHora": "2007-07-05T17:17:11.000Z",
+   "nome": "Ofício"
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-07-06T01:59:25.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2007-07-09T13:22:52.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 106,
+   "dataHora": "2007-07-12T16:41:03.000Z",
+   "nome": "Mandado",
+   "complementosTabelados": [
+    {
+     "codigo": 6,
+     "descricao": "resultado",
+     "valor": 7,
+     "nome": "entregue ao destinatário"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-07-13T16:05:14.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2007-07-13T18:15:00.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2007-07-13T18:15:02.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-07-16T14:24:40.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-07-17T13:01:15.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-07-17T14:12:15.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2007-07-17T14:12:47.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-07-17T16:38:44.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-07-17T18:13:56.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-07-17T18:43:33.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-07-17T18:43:54.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 1059,
+   "dataHora": "2007-07-18T14:41:23.000Z",
+   "nome": "Sem efeito suspensivo"
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2007-07-18T15:21:11.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2007-07-18T17:47:11.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2007-07-19T02:00:18.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-07-23T13:02:38.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2007-07-31T15:06:23.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-07-31T15:06:35.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-08-03T12:37:52.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2007-08-03T12:38:19.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2007-08-03T18:49:20.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-08-06T18:00:45.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-08-06T18:01:51.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-08-07T12:18:52.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2007-08-07T16:18:45.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2007-08-08T11:15:11.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2008-07-08T19:34:11.000Z",
+   "nome": "Mudança de Classe Processual"
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-01-19T14:44:23.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-01-20T13:26:26.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-01-20T13:26:37.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2009-01-22T13:44:57.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2009-01-26T13:19:13.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2009-01-29T16:34:33.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2009-01-29T16:35:18.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-01-30T13:37:12.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-01-30T15:57:33.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-03-02T11:39:23.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-03-02T13:14:19.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-03-02T13:14:32.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-03-02T17:08:27.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-03-03T17:21:40.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-03-04T12:44:11.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-03-16T18:44:59.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-03-17T15:35:30.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 1061,
+   "dataHora": "2009-03-20T15:21:00.000Z",
+   "nome": "Disponibilização no Diário da Justiça Eletrônico"
+  },
+  {
+   "codigo": 92,
+   "dataHora": "2009-03-23T01:59:36.000Z",
+   "nome": "Publicação"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-03-31T16:26:29.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-04-03T16:26:12.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-04-03T16:54:09.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2009-04-20T14:45:42.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-04-22T15:08:04.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-05-12T18:02:18.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-05-14T14:39:21.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-05-14T14:40:02.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2009-05-22T16:11:38.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-06-29T18:41:35.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-06-30T15:34:34.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-10-02T12:01:05.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-10-05T10:35:37.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-10-05T10:54:28.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-10-05T12:29:12.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-10-06T17:02:47.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-11-19T12:28:01.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2009-11-20T10:58:39.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2009-11-20T10:58:46.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2009-11-20T11:00:00.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2009-11-23T18:24:16.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2009-11-25T15:03:33.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2013-10-15T13:45:24.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2013-10-15T13:46:14.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2013-10-15T13:49:12.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2014-02-07T12:45:26.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2014-02-10T14:48:07.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 79,
+     "nome": "Ofício"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2014-04-03T17:19:13.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2014-05-13T16:41:58.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2014-05-14T15:39:11.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2014-09-01T12:46:32.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2014-09-04T16:57:57.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2014-09-17T16:20:56.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2014-09-23T14:31:55.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2019-04-22T16:17:49.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2019-04-24T16:36:40.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2019-05-24T17:58:28.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2019-05-29T14:23:00.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2019-07-22T12:09:10.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2019-07-24T13:49:26.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2019-08-13T18:52:59.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2019-08-21T18:51:01.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2019-08-28T10:49:06.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-02-22T14:24:20.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2024-02-26T14:53:04.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2024-03-04T14:51:33.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2024-03-06T11:55:28.000Z",
+   "nome": "Recebimento"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3555,
+   "nome": "Corrupção passiva "
+  },
+  {
+   "codigo": 3565,
+   "nome": "Usurpação de função pública "
+  },
+  {
+   "codigo": 3568,
+   "nome": "Corrupção ativa "
+  },
+  {
+   "codigo": 3628,
+   "nome": "Crimes de &quot;Lavagem&quot; ou Ocultação de Bens, Direitos ou Valores"
+  }
+ ]
+}

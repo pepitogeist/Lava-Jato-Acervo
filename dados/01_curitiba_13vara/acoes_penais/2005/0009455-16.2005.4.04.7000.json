@@ -1,0 +1,149 @@
+{
+ "id": "TRF4_283_G1_11891_00094551620054047000",
+ "tribunal": "TRF4",
+ "grau": "G1",
+ "numeroProcesso": "00094551620054047000",
+ "dataAjuizamento": "20050419000000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 11891,
+  "nome": "13ª Vara Federal de Curitiba",
+  "codigoMunicipioIBGE": 4106902
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 2,
+  "nome": "Físico"
+ },
+ "dataHoraUltimaAtualizacao": "2023-06-27T23:34:22.753000Z",
+ "@timestamp": "2023-06-27T23:34:22.753000Z",
+ "movimentos": [
+  {
+   "codigo": 132,
+   "dataHora": "2005-05-31T16:27:48.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2005-05-31T16:29:13.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2005-05-31T16:30:19.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 26,
+   "dataHora": "2005-05-31T16:42:47.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 4,
+     "nome": "dependência"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2005-06-01T16:11:53.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2005-06-02T19:02:38.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2005-06-02T19:03:15.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2005-06-16T19:29:12.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 961,
+   "dataHora": "2005-07-05T18:40:46.000Z",
+   "nome": "Suscitação de Conflito de Competência"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2005-07-08T20:06:03.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ]
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2005-07-12T19:00:46.000Z",
+   "nome": "Recebimento"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2005-07-19T14:03:14.000Z",
+   "nome": "Baixa Definitiva"
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2005-07-27T12:25:22.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ]
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2008-07-08T19:33:32.000Z",
+   "nome": "Mudança de Classe Processual"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3533,
+   "nome": "Falsidade ideológica "
+  },
+  {
+   "codigo": 3614,
+   "nome": "Crimes contra a Ordem Tributária"
+  }
+ ]
+}

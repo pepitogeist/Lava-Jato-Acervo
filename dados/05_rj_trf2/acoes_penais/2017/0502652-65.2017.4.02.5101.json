@@ -1,0 +1,226 @@
+{
+ "id": "TRF2_G1_05026526520174025101",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "05026526520174025101",
+ "dataAjuizamento": "20170903112700",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-06-13T13:52:19.528000Z",
+ "@timestamp": "2026-06-13T13:52:19.528000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2017-09-03T11:15:00.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 85,
+     "nome": "sorteio manual"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2017-09-06T17:01:45.000Z",
+   "nome": "Mudança de Classe Processual",
+   "complementosTabelados": [
+    {
+     "codigo": 26,
+     "descricao": "classe_anterior",
+     "valor": 280,
+     "nome": "TJCE"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2017-09-06T17:01:45.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 220,
+   "dataHora": "2018-08-30T19:51:00.000Z",
+   "nome": "Improcedência",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2018-10-05T16:34:00.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 38,
+     "nome": "em grau de recurso"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2022-08-10T13:41:03.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2022-09-21T16:04:52.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-02-14T18:19:07.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2023-03-08T17:31:55.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2023-06-20T12:49:58.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 849,
+   "dataHora": "2026-01-27T13:52:50.000Z",
+   "nome": "Reativação",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-01-28T11:21:39.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2026-01-28T11:49:44.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12289",
+    "nome": "Vara Federal de Teresópolis"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2026-01-28T11:49:44.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-01-28T17:25:22.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-02-10T19:12:22.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2026-02-12T20:39:50.000Z",
+   "nome": "Baixa Definitiva",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3574,
+   "nome": "Contrabando ou descaminho "
+  }
+ ]
+}

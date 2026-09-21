@@ -1,0 +1,131 @@
+{
+ "id": "TRF4_G2_50330871920244047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50330871920244047000",
+ "dataAjuizamento": "20260825175346",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44534,
+  "nome": "GAB 81 Des Federal LORACI FLORES DE LIMA",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-13T10:02:50.344000Z",
+ "@timestamp": "2026-09-13T10:02:50.344000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-08-25T17:53:46.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-25T20:53:44.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-09-02T18:33:33.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-09-02T18:33:38.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-09-09T19:18:30.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-09-11T12:11:31.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12282,
+   "dataHora": "2026-09-11T15:17:25.000Z",
+   "nome": "Expedida/Certificada",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  },
+  {
+   "codigo": 12115,
+   "dataHora": "2026-09-11T15:17:25.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Des. Federal LORACI FLORES DE LIMA)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3524,
+   "nome": "Moeda Falsa / Assimilados"
+  }
+ ]
+}

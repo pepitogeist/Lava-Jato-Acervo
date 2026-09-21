@@ -1,0 +1,105 @@
+{
+ "id": "TRF4_417_G2_44528_50022947820164047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50022947820164047000",
+ "dataAjuizamento": "20170911135019",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44528,
+  "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2021-07-23T09:32:34.454000Z",
+ "@timestamp": "2021-07-23T09:32:34.454000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2017-09-11T13:50:19.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 3,
+     "nome": "prevenção"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2017-10-16T14:59:30.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 12185,
+   "dataHora": "2017-10-16T15:53:45.000Z",
+   "nome": "Decisão Interlocutória de Mérito"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2017-10-16T15:54:23.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2017-10-16T15:54:23.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2017-10-16T18:02:22.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2017-10-16T18:02:46.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2017-10-26T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2017-10-31T01:05:43.000Z",
+   "nome": "Decurso de Prazo"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2017-10-31T10:31:04.000Z",
+   "nome": "Baixa Definitiva"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3612,
+   "nome": "Crimes contra o Sistema Financeiro Nacional"
+  }
+ ]
+}

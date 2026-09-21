@@ -1,0 +1,94 @@
+{
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "numeroProcesso": "08145069520084025101",
+ "sistema": {
+  "codigo": 4,
+  "nome": "EPROC"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "tribunal": "TRF2",
+ "dataHoraUltimaAtualizacao": "2024-07-06T01:00:10.308Z",
+ "grau": "G1",
+ "@timestamp": "2025-02-24T19:05:54.359940612Z",
+ "dataAjuizamento": "2008-10-21T16:15:00.000Z",
+ "movimentos": [
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "valor": 2,
+     "nome": "sorteio",
+     "descricao": "tipo_de_distribuicao_redistribuicao"
+    }
+   ],
+   "codigo": 26,
+   "nome": "Distribuição",
+   "dataHora": "2008-10-21T16:16:00.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 26,
+     "valor": 279,
+     "nome": "TJBA",
+     "descricao": "classe_anterior"
+    }
+   ],
+   "codigo": 10966,
+   "nome": "Mudança de Classe Processual",
+   "dataHora": "2015-05-14T18:09:26.000Z"
+  },
+  {
+   "codigo": 391,
+   "nome": "Denúncia",
+   "dataHora": "2015-05-14T18:09:26.000Z"
+  },
+  {
+   "codigo": 219,
+   "nome": "Procedência",
+   "dataHora": "2017-12-18T17:20:00.000Z"
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "valor": 38,
+     "nome": "em grau de recurso",
+     "descricao": "motivo_da_remessa"
+    }
+   ],
+   "codigo": 123,
+   "nome": "Remessa",
+   "dataHora": "2018-05-29T16:28:00.000Z"
+  },
+  {
+   "codigo": 132,
+   "nome": "Recebimento",
+   "dataHora": "2019-11-27T14:54:00.000Z"
+  },
+  {
+   "codigo": 22,
+   "nome": "Baixa Definitiva",
+   "dataHora": "2020-03-03T15:13:00.000Z"
+  }
+ ],
+ "id": "TRF2_G1_08145069520084025101",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigoMunicipioIBGE": 3304557,
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+ },
+ "assuntos": [
+  {
+   "codigo": 3642,
+   "nome": "Crimes da Lei de licitações"
+  }
+ ]
+}

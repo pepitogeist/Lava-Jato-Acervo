@@ -1,0 +1,305 @@
+{
+ "id": "TRF4_417_G2_44528_50563950220154047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50563950220154047000",
+ "dataAjuizamento": "20160615185305",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44528,
+  "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2021-07-21T09:46:49.827000Z",
+ "@timestamp": "2021-07-21T09:46:49.827000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2016-06-15T18:53:05.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 3,
+     "nome": "prevenção"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2016-06-17T15:00:19.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2016-06-17T15:07:03.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2016-06-17T15:07:03.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2016-06-27T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2016-07-06T01:10:37.000Z",
+   "nome": "Decurso de Prazo"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2016-07-06T12:22:27.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2016-07-06T15:53:32.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2016-07-06T16:04:01.000Z",
+   "nome": "Mero expediente"
+  },
+  {
+   "codigo": 60,
+   "dataHora": "2016-07-06T17:24:19.000Z",
+   "nome": "Expedição de documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2016-07-08T14:19:34.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2016-07-08T14:51:14.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2016-07-18T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 985,
+   "dataHora": "2016-07-19T12:16:58.000Z",
+   "nome": "Mandado"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2016-07-21T15:01:29.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 78,
+     "nome": "Mandado"
+    }
+   ]
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2016-07-29T01:01:25.000Z",
+   "nome": "Decurso de Prazo"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2016-08-04T16:32:58.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2016-08-04T16:34:14.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2016-10-20T19:21:21.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2016-10-27T13:34:22.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal SALISE MONTEIRO SANCHOTENE)"
+   }
+  },
+  {
+   "codigo": 12105,
+   "dataHora": "2016-10-28T15:59:52.000Z",
+   "nome": "Inclusão do processo para julgamento eletrônico"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2016-10-28T16:03:00.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2016-11-04T12:44:26.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 12252,
+   "dataHora": "2016-11-22T17:59:19.000Z",
+   "nome": "Sentença confirmada"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2016-11-23T15:01:19.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2016-11-23T17:35:38.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2016-11-23T17:35:39.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2016-12-02T17:44:17.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2016-12-02T17:44:18.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2016-12-03T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2017-01-24T01:03:14.000Z",
+   "nome": "Decurso de Prazo"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2017-01-24T13:59:35.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2017-01-24T14:00:03.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2017-01-24T14:00:19.000Z",
+   "nome": "Baixa Definitiva"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3608,
+   "nome": "Tráfico de Drogas e Condutas Afins"
+  }
+ ]
+}

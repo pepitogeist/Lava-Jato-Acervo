@@ -1,0 +1,79 @@
+{
+ "id": "TRF4_G2_50055727220254047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50055727220254047000",
+ "dataAjuizamento": "20260727152406",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44546,
+  "nome": "GAB 72 Des Federal ALEXANDRE GONCALVES LIPPEL",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-08-04T07:43:23.687000Z",
+ "@timestamp": "2026-08-04T07:43:23.687000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-07-27T15:24:06.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-07-27T16:37:12.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-07-30T16:54:49.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-07-30T16:54:54.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal ALEXANDRE GONÇALVES LIPPEL)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3524,
+   "nome": "Moeda Falsa / Assimilados"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "numeroProcesso": "50815710220234047000",
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "tribunal": "TRF4",
+ "dataHoraUltimaAtualizacao": "2026-05-08T03:35:32.685000Z",
+ "grau": "G2",
+ "@timestamp": "2026-05-08T03:35:32.685000Z",
+ "dataAjuizamento": "20260326144746",
+ "movimentos": [
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "valor": 2,
+     "nome": "sorteio",
+     "descricao": "tipo_de_distribuicao_redistribuicao"
+    }
+   ],
+   "codigo": 26,
+   "nome": "Distribuição",
+   "dataHora": "2026-03-26T14:47:46.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2026-03-27T11:45:52.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2026-03-27T15:05:33.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2026-03-27T15:07:31.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "valor": 40,
+     "nome": "outros motivos",
+     "descricao": "motivo_da_remessa"
+    }
+   ],
+   "codigo": 123,
+   "nome": "Remessa",
+   "dataHora": "2026-03-30T15:30:02.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 11010,
+   "nome": "Mero expediente",
+   "dataHora": "2026-03-30T15:41:34.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "nome": "Expedida/certificada",
+   "dataHora": "2026-03-30T15:41:45.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "nome": "Confirmada",
+   "dataHora": "2026-03-30T16:33:19.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "codigo": 85,
+   "nome": "Petição",
+   "dataHora": "2026-03-30T16:34:06.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  },
+  {
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "valor": 6,
+     "nome": "para decisão",
+     "descricao": "tipo_de_conclusao"
+    }
+   ],
+   "codigo": 51,
+   "nome": "Conclusão",
+   "dataHora": "2026-03-30T16:56:14.000Z",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+   }
+  }
+ ],
+ "id": "TRF4_G2_50815710220234047000",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigoMunicipioIBGE": 4314902,
+  "codigo": 44528,
+  "nome": "GAB. 71 (Des. Federal ÂNGELO ROBERTO ILHA DA SILVA)"
+ },
+ "assuntos": [
+  {
+   "codigo": 3432,
+   "nome": "Estelionato Majorado "
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "id": "TRF4_417_G2_44546_50579302920164047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50579302920164047000",
+ "dataAjuizamento": "20171016123509",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44546,
+  "nome": "GAB. 72 (Des. Federal SALISE MONTEIRO SANCHOTENE)",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2021-07-09T21:07:40.599000Z",
+ "@timestamp": "2021-07-09T21:07:40.599000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2017-10-16T12:35:09.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ]
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2017-10-16T13:57:05.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal SALISE MONTEIRO SANCHOTENE)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2017-10-26T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2017-10-30T15:07:42.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2017-11-06T17:29:22.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2019-01-17T17:40:48.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal SALISE MONTEIRO SANCHOTENE)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2019-01-21T18:01:12.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-01-23T15:59:57.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12105,
+   "dataHora": "2019-01-23T15:59:57.000Z",
+   "nome": "Inclusão do processo para julgamento eletrônico"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2019-01-24T16:45:08.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 12252,
+   "dataHora": "2019-02-12T17:10:46.000Z",
+   "nome": "Sentença confirmada"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2019-02-13T18:49:00.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal SALISE MONTEIRO SANCHOTENE)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-02-13T18:51:42.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-02-13T18:51:42.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-02-14T13:24:17.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-02-14T13:24:17.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-02-19T17:35:17.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-02-19T17:35:17.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-02-19T17:40:06.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-02-19T17:40:22.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2019-02-19T17:40:41.000Z",
+   "nome": "Baixa Definitiva"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3568,
+   "nome": "Corrupção ativa "
+  }
+ ]
+}

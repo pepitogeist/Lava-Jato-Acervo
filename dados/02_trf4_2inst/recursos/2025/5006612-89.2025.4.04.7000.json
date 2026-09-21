@@ -1,0 +1,130 @@
+{
+ "id": "TRF4_G2_50066128920254047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50066128920254047000",
+ "dataAjuizamento": "20260807124910",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44531,
+  "nome": "GAB 82 Des Federal MARCELO MALUCELLI",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-11T07:42:55.752000Z",
+ "@timestamp": "2026-09-11T07:42:55.752000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2026-08-07T12:49:10.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2026-08-07T13:17:50.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2026-08-12T13:53:13.000Z",
+   "nome": "Confirmada",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2026-08-12T13:53:18.000Z",
+   "nome": "Petição",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-09-04T14:38:36.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 123,
+   "dataHora": "2026-09-04T16:11:06.000Z",
+   "nome": "Remessa",
+   "complementosTabelados": [
+    {
+     "codigo": 18,
+     "descricao": "motivo_da_remessa",
+     "valor": 40,
+     "nome": "outros motivos"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2026-09-08T17:03:47.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal MARCELO MALUCELLI)"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3574,
+   "nome": "Contrabando ou descaminho "
+  }
+ ]
+}

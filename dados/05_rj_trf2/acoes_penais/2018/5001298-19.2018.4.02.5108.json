@@ -1,0 +1,464 @@
+{
+ "id": "TRF2_G1_50012981920184025108",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "50012981920184025108",
+ "dataAjuizamento": "20180802173657",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-09-15T22:57:28.892000Z",
+ "@timestamp": "2026-09-15T22:57:28.892000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2018-08-02T17:36:57.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 4,
+     "nome": "dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2018-10-18T11:31:43.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2018-12-05T15:26:33.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 3,
+     "nome": "prevenção"
+    },
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "14335",
+    "nome": "2ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2018-12-05T15:26:33.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "63829",
+    "nome": "Diretoria de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2018-12-07T17:14:14.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 3,
+     "nome": "prevenção"
+    },
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "63829",
+    "nome": "Diretoria de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2018-12-07T17:14:14.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2018-12-18T14:00:10.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 3,
+     "nome": "prevenção"
+    },
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2018-12-18T14:00:10.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "63829",
+    "nome": "Diretoria de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2019-01-15T16:57:56.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    },
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "63829",
+    "nome": "Diretoria de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2019-01-15T16:57:56.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2019-02-28T21:09:52.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2019-08-30T15:10:45.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2019-10-17T17:30:18.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-01-22T16:15:09.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-02-06T14:21:22.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-03-01T22:30:29.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-10-07T19:18:46.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-11-15T18:06:56.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-11-26T16:54:05.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2020-12-02T12:53:40.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2021-01-21T21:08:20.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2021-01-29T19:11:39.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2021-06-04T15:58:03.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2021-06-21T13:46:11.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2024-03-25T16:03:37.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    },
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12288",
+    "nome": "1ª Vara Federal de São Pedro da Aldeia"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2024-03-25T16:03:37.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11383,
+   "dataHora": "2024-05-21T13:11:03.000Z",
+   "nome": "Ato ordinatório",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2025-01-14T17:15:27.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-01-24T18:19:39.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-01-29T18:19:40.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-02-06T12:13:16.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2025-02-24T16:23:10.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2025-03-12T15:35:18.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2026-06-21T06:15:10.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-06-23T12:13:53.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-06-25T16:28:08.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2026-06-26T14:37:36.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2026-08-26T06:15:10.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-08-31T17:30:25.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3432,
+   "nome": "Estelionato Majorado "
+  }
+ ]
+}

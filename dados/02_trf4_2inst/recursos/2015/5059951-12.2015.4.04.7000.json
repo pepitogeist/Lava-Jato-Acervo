@@ -1,0 +1,612 @@
+{
+ "id": "TRF4_421_G2_44531_50599511220154047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50599511220154047000",
+ "dataAjuizamento": "20161013150945",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44531,
+  "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 421,
+  "nome": "Embargos Infringentes e de Nulidade"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2022-06-05T00:01:28.432000Z",
+ "@timestamp": "2022-06-05T00:01:28.432000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2016-10-13T15:09:45.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2016-10-17T15:50:45.000Z",
+   "nome": "Expedida/certificada",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2016-10-25T19:44:39.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2016-10-25T19:44:40.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-02-22T16:59:29.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-03-06T18:32:51.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal SALISE MONTEIRO SANCHOTENE)"
+   }
+  },
+  {
+   "codigo": 12105,
+   "dataHora": "2018-03-07T15:07:20.000Z",
+   "nome": "Inclusão do processo para julgamento eletrônico"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-03-07T15:07:34.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-03-08T14:20:47.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-03-23T18:39:48.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-03-23T19:31:59.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12204,
+   "dataHora": "2018-04-03T15:14:11.000Z",
+   "nome": "Pedido de Vista"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-04-04T14:40:07.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 12116,
+   "dataHora": "2018-05-21T13:51:06.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12252,
+   "dataHora": "2018-05-22T17:40:52.000Z",
+   "nome": "Sentença confirmada"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-05-24T13:50:27.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2018-05-24T14:02:52.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 117,
+     "nome": "Acórdão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-05-24T14:03:30.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-05-28T13:21:44.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-05-28T16:13:15.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-05-28T16:13:15.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-05-29T08:05:36.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2018-05-29T08:05:36.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2018-05-30T14:42:32.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-06-04T12:11:29.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-06-04T12:31:34.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-06-05T15:01:58.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 12431,
+   "dataHora": "2018-06-05T15:03:13.000Z",
+   "nome": "Embargos "
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2018-06-06T12:42:51.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 84,
+     "nome": "alteração de competência do Ã³rgÃ£o"
+    },
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2018-06-06T12:42:51.000Z",
+   "nome": "Mudança de Classe Processual"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-06-18T15:16:53.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-06-18T15:19:46.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2018-06-18T19:28:20.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-06-18T19:28:21.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-06-19T11:02:15.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-07-17T13:35:59.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-07-24T14:15:45.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44534",
+    "nome": "GAB. 81 (Juiz Federal NIVALDO BRUNONI)"
+   }
+  },
+  {
+   "codigo": 12105,
+   "dataHora": "2018-07-26T18:12:35.000Z",
+   "nome": "Inclusão do processo para julgamento eletrônico"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-07-26T18:15:29.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-07-30T14:55:32.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 12203,
+   "dataHora": "2018-08-16T16:22:28.000Z",
+   "nome": "Adiado"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-08-20T13:38:51.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)"
+   }
+  },
+  {
+   "codigo": 12105,
+   "dataHora": "2018-09-28T13:49:50.000Z",
+   "nome": "Inclusão do processo para julgamento eletrônico"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-09-28T14:02:17.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-10-01T17:13:17.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ]
+  },
+  {
+   "codigo": 239,
+   "dataHora": "2018-10-19T14:07:08.000Z",
+   "nome": "Não-Provimento"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-10-22T11:48:15.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-10-22T12:29:36.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-10-22T12:29:37.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-10-22T17:13:45.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2018-10-22T17:13:45.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-10-22T17:42:18.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2018-10-22T17:42:18.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-10-22T17:53:33.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 12116,
+   "dataHora": "2018-11-23T18:23:20.000Z",
+   "nome": "Para julgamento de mérito"
+  },
+  {
+   "codigo": 12291,
+   "dataHora": "2018-12-01T17:30:39.000Z",
+   "nome": "Movimentação processual",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)"
+   }
+  },
+  {
+   "codigo": 237,
+   "dataHora": "2018-12-14T15:43:56.000Z",
+   "nome": "Provimento"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-12-14T20:00:04.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44531",
+    "nome": "GAB. 82 (Des. Federal JOÃO PEDRO GEBRAN NETO)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-12-17T14:37:36.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-12-17T14:37:36.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-12-17T14:48:07.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2018-12-17T14:48:07.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2018-12-17T16:24:09.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-12-17T16:25:13.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2018-12-17T17:10:11.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2018-12-17T17:10:32.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2018-12-17T17:12:06.000Z",
+   "nome": "Baixa Definitiva"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3637,
+   "nome": "Crimes Previstos no Estatuto da criança e do adolescente"
+  }
+ ]
+}

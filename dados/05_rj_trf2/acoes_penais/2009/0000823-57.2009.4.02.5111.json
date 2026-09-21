@@ -1,0 +1,295 @@
+{
+ "id": "TRF2_G1_00008235720094025111",
+ "tribunal": "TRF2",
+ "grau": "G1",
+ "numeroProcesso": "00008235720094025111",
+ "dataAjuizamento": "20090902123400",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 12260,
+  "nome": "7ª Vara Federal Criminal do Rio de Janeiro",
+  "codigoMunicipioIBGE": 3304557
+ },
+ "classe": {
+  "codigo": 283,
+  "nome": "Ação Penal - Procedimento Ordinário"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2026-06-13T14:31:49.651000Z",
+ "@timestamp": "2026-06-13T14:31:49.651000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2009-09-02T12:35:00.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12273",
+    "nome": "Vara Federal de Angra dos Reis"
+   }
+  },
+  {
+   "codigo": 10966,
+   "dataHora": "2010-01-20T16:23:00.000Z",
+   "nome": "Mudança de Classe Processual",
+   "complementosTabelados": [
+    {
+     "codigo": 26,
+     "descricao": "classe_anterior",
+     "valor": 279,
+     "nome": "TJBA"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12273",
+    "nome": "Vara Federal de Angra dos Reis"
+   }
+  },
+  {
+   "codigo": 391,
+   "dataHora": "2010-01-20T16:23:00.000Z",
+   "nome": "Denúncia",
+   "orgaoJulgador": {
+    "codigo": "12273",
+    "nome": "Vara Federal de Angra dos Reis"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2012-04-26T14:49:00.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12273",
+    "nome": "Vara Federal de Angra dos Reis"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2014-06-04T17:59:00.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12273",
+    "nome": "Vara Federal de Angra dos Reis"
+   }
+  },
+  {
+   "codigo": 898,
+   "dataHora": "2017-04-28T17:10:00.000Z",
+   "nome": "Por decisão judicial",
+   "orgaoJulgador": {
+    "codigo": "12273",
+    "nome": "Vara Federal de Angra dos Reis"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2024-05-02T22:46:48.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    },
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 87,
+     "nome": "recusa de prevenção/dependência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12273",
+    "nome": "Vara Federal de Angra dos Reis"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2024-05-02T22:46:48.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12313",
+    "nome": "2ª Vara Federal de Volta Redonda"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2024-06-25T14:56:41.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12313",
+    "nome": "2ª Vara Federal de Volta Redonda"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2024-08-19T16:31:23.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12313",
+    "nome": "2ª Vara Federal de Volta Redonda"
+   }
+  },
+  {
+   "codigo": 36,
+   "dataHora": "2024-09-11T15:07:09.000Z",
+   "nome": "Redistribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    },
+    {
+     "codigo": 17,
+     "descricao": "motivo_da_redistribuicao",
+     "valor": 83,
+     "nome": "incompetência"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "12313",
+    "nome": "2ª Vara Federal de Volta Redonda"
+   }
+  },
+  {
+   "codigo": 132,
+   "dataHora": "2024-09-11T15:07:09.000Z",
+   "nome": "Recebimento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2024-09-13T18:01:27.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2024-09-19T16:16:12.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12164,
+   "dataHora": "2024-10-03T18:34:10.000Z",
+   "nome": "Outras Decisões",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2024-10-08T20:35:56.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2025-05-20T15:20:13.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-05-23T15:18:36.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2025-05-27T15:20:17.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2025-05-27T15:20:35.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 12067,
+   "dataHora": "2026-05-18T15:15:30.000Z",
+   "nome": "Levantamento da Suspensão ou Dessobrestamento",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-05-19T15:15:37.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 11010,
+   "dataHora": "2026-05-25T15:46:56.000Z",
+   "nome": "Mero expediente",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  },
+  {
+   "codigo": 263,
+   "dataHora": "2026-05-26T14:28:26.000Z",
+   "nome": "Réu revel citado por edital ",
+   "orgaoJulgador": {
+    "codigo": "12260",
+    "nome": "7ª Vara Federal Criminal do Rio de Janeiro"
+   }
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3524,
+   "nome": "Moeda Falsa / Assimilados"
+  }
+ ]
+}

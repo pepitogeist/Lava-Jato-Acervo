@@ -1,0 +1,403 @@
+{
+ "id": "TRF4_417_G2_44538_50235478820174047000",
+ "tribunal": "TRF4",
+ "grau": "G2",
+ "numeroProcesso": "50235478820174047000",
+ "dataAjuizamento": "20170602191044",
+ "nivelSigilo": 0,
+ "orgaoJulgador": {
+  "codigo": 44538,
+  "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)",
+  "codigoMunicipioIBGE": 4314902
+ },
+ "classe": {
+  "codigo": 417,
+  "nome": "Apelação Criminal"
+ },
+ "sistema": {
+  "codigo": 4,
+  "nome": "Projudi"
+ },
+ "formato": {
+  "codigo": 1,
+  "nome": "Eletrônico"
+ },
+ "dataHoraUltimaAtualizacao": "2021-07-09T21:54:04.510000Z",
+ "@timestamp": "2021-07-09T21:54:04.510000Z",
+ "movimentos": [
+  {
+   "codigo": 26,
+   "dataHora": "2017-06-02T19:10:44.000Z",
+   "nome": "Distribuição",
+   "complementosTabelados": [
+    {
+     "codigo": 2,
+     "descricao": "tipo_de_distribuicao_redistribuicao",
+     "valor": 2,
+     "nome": "sorteio"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2017-06-05T18:48:01.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2017-06-05T18:59:40.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2017-06-15T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2017-06-26T17:14:53.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2017-06-26T17:20:04.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2017-07-06T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2017-07-18T01:03:16.000Z",
+   "nome": "Decurso de Prazo"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2017-08-31T17:00:31.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2017-08-31T17:37:09.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 6,
+     "nome": "para decisão"
+    }
+   ]
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-08-03T14:22:22.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-08-08T11:19:40.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-08-08T11:35:29.000Z",
+   "nome": "Remessa"
+  },
+  {
+   "codigo": 12105,
+   "dataHora": "2018-08-08T14:50:14.000Z",
+   "nome": "Inclusão do processo para julgamento eletrônico"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-08-08T14:50:54.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-08-22T13:19:44.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-08-24T17:54:35.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12274,
+   "dataHora": "2018-08-28T17:31:40.000Z",
+   "nome": "Sobrestado"
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2018-08-28T17:42:32.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 80,
+     "nome": "Outros documentos"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-08-28T17:55:52.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2018-08-28T18:28:36.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-08-28T18:29:27.000Z",
+   "nome": "Remessa"
+  },
+  {
+   "codigo": 12116,
+   "dataHora": "2018-09-04T16:04:57.000Z",
+   "nome": "Para julgamento de mérito",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12204,
+   "dataHora": "2018-09-11T15:29:00.000Z",
+   "nome": "Pedido de Vista"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2018-09-12T17:42:43.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2018-09-14T17:00:06.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12105,
+   "dataHora": "2018-11-07T13:41:25.000Z",
+   "nome": "Inclusão do processo para julgamento eletrônico"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2018-11-07T13:41:49.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12204,
+   "dataHora": "2018-11-27T18:13:58.000Z",
+   "nome": "Pedido de Vista"
+  },
+  {
+   "codigo": 51,
+   "dataHora": "2018-11-27T18:48:20.000Z",
+   "nome": "Conclusão",
+   "complementosTabelados": [
+    {
+     "codigo": 3,
+     "descricao": "tipo_de_conclusao",
+     "valor": 36,
+     "nome": "para julgamento"
+    }
+   ],
+   "orgaoJulgador": {
+    "codigo": "44546",
+    "nome": "GAB. 72 (Des. Federal SALISE MONTEIRO SANCHOTENE)"
+   }
+  },
+  {
+   "codigo": 12254,
+   "dataHora": "2019-01-22T16:25:57.000Z",
+   "nome": "Sentença desconstituída"
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2019-01-29T13:40:14.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44528",
+    "nome": "GAB. 71 (Juiz Federal DANILO PEREIRA JÚNIOR)"
+   }
+  },
+  {
+   "codigo": 978,
+   "dataHora": "2019-02-15T14:29:20.000Z",
+   "nome": "Remessa",
+   "orgaoJulgador": {
+    "codigo": "44538",
+    "nome": "GAB. 73 (Des. Federal LUIZ CARLOS CANALLI)"
+   }
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-02-15T14:46:23.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 12265,
+   "dataHora": "2019-02-15T14:46:23.000Z",
+   "nome": "Expedida/certificada"
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-02-19T08:22:54.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 581,
+   "dataHora": "2019-02-19T14:26:05.000Z",
+   "nome": "Documento",
+   "complementosTabelados": [
+    {
+     "codigo": 4,
+     "descricao": "tipo_de_documento",
+     "valor": 107,
+     "nome": "Certidão"
+    }
+   ]
+  },
+  {
+   "codigo": 85,
+   "dataHora": "2019-02-19T18:24:20.000Z",
+   "nome": "Petição",
+   "complementosTabelados": [
+    {
+     "codigo": 19,
+     "descricao": "tipo_de_peticao",
+     "valor": 57,
+     "nome": "Petição (outras)"
+    }
+   ]
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-02-19T18:24:20.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 12266,
+   "dataHora": "2019-02-25T23:59:59.000Z",
+   "nome": "Confirmada"
+  },
+  {
+   "codigo": 1051,
+   "dataHora": "2019-03-13T01:03:25.000Z",
+   "nome": "Decurso de Prazo"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-03-13T17:35:04.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 848,
+   "dataHora": "2019-03-13T17:35:38.000Z",
+   "nome": "Trânsito em julgado"
+  },
+  {
+   "codigo": 22,
+   "dataHora": "2019-03-13T17:36:22.000Z",
+   "nome": "Baixa Definitiva"
+  }
+ ],
+ "assuntos": [
+  {
+   "codigo": 3614,
+   "nome": "Crimes contra a Ordem Tributária"
+  }
+ ]
+}
