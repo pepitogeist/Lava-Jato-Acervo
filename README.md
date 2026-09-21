@@ -19,13 +19,13 @@ CNJ reportava nessa data.
 
 | Conjunto | Processos | Movimentações |
 |---|---:|---:|
-| 13ª Vara Federal de Curitiba — acervo criminal completo (1º grau, 59 classes) | **7.864** | **643.385** |
-| — das quais Ações Penais (classe 283) | 1.849 | — |
-| TRF4 2ª instância — recursos das ações penais de Curitiba | **683** | **50.709** |
-| 7ª Vara Federal Criminal do Rio de Janeiro — acervo completo (1º grau) | **3.713** | **42.904** |
+| 13ª Vara Federal de Curitiba: acervo criminal completo (1º grau, 59 classes) | **7.864** | **643.385** |
+| -- das quais Ações Penais (classe 283) | 1.849 | — |
+| TRF4 2ª instância: recursos das ações penais de Curitiba | **683** | **50.709** |
+| 7ª Vara Federal Criminal do Rio de Janeiro: acervo completo (1º grau) | **3.713** | **42.904** |
 | **Total** | **12.260** | **≈ 737.000** |
 
-Mais: 79 fases da operação catalogadas ([`indices/fases_operacao.csv`](indices/fases_operacao.csv)),
+79 fases da operação catalogadas ([`indices/fases_operacao.csv`](indices/fases_operacao.csv)),
 camada curada com os casos emblemáticos identificados
 ([`dados/00_acoes_identificadas/`](dados/00_acoes_identificadas/)) e tabelas de
 referência do STF ([`dados/04_stf/`](dados/04_stf/)).
